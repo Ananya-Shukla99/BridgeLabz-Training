@@ -17,7 +17,7 @@ public class Calculator{
 		float division=(num1>num2)?num1/num2:num2/num1;
 		
 		//Printing discount
-		System.out.println( The addition, subtraction, multiplication and division value of 2 numbers "+num1+" and "+num2+" is "+add+","+sub+","+mul+", and "+division);
-);
+		System.out.println( "The addition, subtraction, multiplication and division value of 2 numbers "+num1+" and "+num2+" is "+add+","+sub+","+mul+", and "+division);
+		s.close();
 	}
 }
