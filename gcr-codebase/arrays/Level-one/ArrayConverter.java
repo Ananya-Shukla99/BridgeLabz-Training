@@ -22,7 +22,8 @@ class ArrayConverter
             }
         }
 		//Creating 1D array
-		int [] brr =int [row*colum];
+        int total=row* column;
+		int [] brr =int [total];
 		int index=0;
       
         // Converting elements of 2D array to 1D array
