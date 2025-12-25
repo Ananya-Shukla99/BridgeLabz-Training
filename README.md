@@ -20,7 +20,7 @@ BridgeLabz-Training/
 │   │   ├── arrays/
 │   │   ├── control-flow/
 │   │   ├── extras/
-    │   ├── method/
+|   │   ├── method/
 │   │   ├── programming-elements/
 │   │   ├── programming-prerequisite/
 │   │   └── strings/
