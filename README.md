@@ -136,4 +136,4 @@ BridgeLabz-Training/
 
 ---
 
-✨ *More updates coming as I continue my Java & DSA journey...*
+✨ *More updates coming as I continue my Java journey...*
