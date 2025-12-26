@@ -1,5 +1,5 @@
 # BridgeLabz-Training
-**---
+---
 
 ## Week 2: Object-oriented Programming
 
@@ -26,4 +26,3 @@
 👉 [Day 9 – Introduction to OOP](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
 
 ---
-**
