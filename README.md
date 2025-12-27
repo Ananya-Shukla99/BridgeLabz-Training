@@ -70,7 +70,7 @@ BridgeLabz-Training/
 ---
 
 ### 📅 Day 4 – Java Control Flows  
-**(Date: 18-Dec-2025)**
+**(Date: 19-Dec-2025)**
 
 - Studied Java control flow concepts:
   - Boolean Data Type  
@@ -88,7 +88,7 @@ BridgeLabz-Training/
 ---
 
 ### 📅 Day 5 – Java Arrays  
-**(Date: 19-Dec-2025)**
+**(Date: 20-Dec-2025)**
 
 - Studied Java arrays and their usage:
   - Creating, accessing, and modifying arrays  
@@ -105,7 +105,7 @@ BridgeLabz-Training/
 ---
 
 ### 📅 Day 6 – Java Methods  
-**(Date: 20-Dec-2025)**
+**(Date: 22-Dec-2025)**
 
 - Studied Java methods:
   - User-defined and reusable methods  
@@ -122,7 +122,7 @@ BridgeLabz-Training/
 ---
 
 ### 📅 Day 7 – Java Strings  
-**(Date: 22-Dec-2025)**
+**(Date: 23-Dec-2025)**
 
 - Studied Java strings and exception handling:
   - Creating and manipulating strings  
