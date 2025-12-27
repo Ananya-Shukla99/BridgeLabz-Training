@@ -135,5 +135,36 @@ BridgeLabz-Training/
 👉 [Day 7 – Java Strings](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
+### 📅 Week 1 – Scenario-Based Practice
+**(Date: 23-Dec-2025)**
+
+- Practice Overview :
+  - Solved basic scenario-based programs.  
+  - Focused on logical thinking and problem-solving
+  - Practiced real-world use cases to strengthen core Java concepts.
+
+- Solved practice problems using strings and array
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Week 1  – Scenario-Based](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 📅 Week 1 – LeetCode Practice
+**(Date: 23-Dec-2025)**
+
+- Practice Overview  :
+  - Solved basic array problems on LeetCode.
+  - Practiced searching, sorting, and array manipulation techniques.
+  - Improved problem-solving skills using optimized logic.
+
+- Solved practice problems using strings and array
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Week 1  – Scenario-Based](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
 
 ✨ *More updates coming as I continue my Java journey...*
