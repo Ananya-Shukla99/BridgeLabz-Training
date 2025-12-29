@@ -166,5 +166,25 @@ BridgeLabz-Training/
 👉 [Week 1  – Scenario-Based](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
+# Week 1 – Day 2: Scenario-Based Core Java Practice
+
+## Overview
+Solved scenario-based Core Java problems focusing on real-world logic and problem-solving.
+
+## Concepts Practiced
+- if-else conditions
+- loops (while, do-while, for)
+- switch-case
+- ternary operator
+- arrays and strings
+
+## Problems Solved
+- Parking Lot Gate System
+- Number Guessing Game
+- Election Booth Manager
+- Metro Smart Card Fare Deduction
+- Raj’s Result Generator
+---
+👉 [Day2   – Scenario-Based](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ✨ *More updates coming as I continue my Java journey...*
