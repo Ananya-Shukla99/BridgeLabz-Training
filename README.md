@@ -181,9 +181,9 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 ## Problems Solved
 - Parking Lot Gate System
 - Number Guessing Game
-- Election Booth Manager
-- Metro Smart Card Fare Deduction
-- Raj’s Result Generator
+- School Bus Attendance System 
+- Shopkeeper’s Discount Dashboard 
+- Phone Recharge Simulator
 ---
 👉 [Day2   – Scenario-Based](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
