@@ -59,3 +59,19 @@
 
 ---
 
+### 📅 Day 4 – Object-Oriented Design Principles  
+**(Date: 29-Dec-2025)**
+
+- Studied Object-Oriented Design (OOD) principles.
+- Learned best practices for:
+  - Class Diagrams
+  - Object Diagrams
+  - Sequence Diagrams
+- Understood UML-based modeling of real-world problems.
+- Applied design principles to:
+  - School Results Application
+  - Grocery Store Bill Generation Application
+- Submitted Object-Oriented Design Principles assignment.
+
+🔗 **Submission:**  
+👉[ Day 4 - Object-Oriented Design Principles](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples/levelone)
