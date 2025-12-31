@@ -266,4 +266,20 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 🔗 **Submission:**  
 👉[ Day 4 - Object-Oriented Design Principles](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples/levelone)
 
+# 📅 Week 2 – Scenario-Based Practice (Core Java)
+
+## Overview
+Practiced real-world Java scenarios to strengthen logic and core concepts.
+
+## Scenarios Covered
+Discount system, attendance tracking, recharge simulator, temperature logger, train booking, fitness tracker, movie booking, library fine calculator, digital watch, online quiz, currency converter, bus distance tracker, and lucky draw.
+
+## Concepts Used
+Loops, if-else, switch, arrays, break, continue, and user input handling.
+
+## Outcome
+Improved problem-solving skills and practical understanding of Core Java.
+🔗 **Submission:**  
+👉[ Week 2 - Scenario-Based Practice ](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
 ✨ *More updates coming as I continue my Java journey...*
