@@ -41,4 +41,21 @@
 👉 [Day 2 – Constructors & Class Members](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
 ---
+### 📅 Day 3 – Static, Final & Inbuilt Keywords  
+**(Date: 28-Dec-2025)**
+
+- Studied the `static` keyword and its usage in Java.
+- Learned about static variables and static methods.
+- Understood the purpose of the `final` keyword.
+- Practiced commonly used inbuilt keywords:
+  - this
+  - instanceof
+- Implemented programs demonstrating static and final members.
+- Created real-world examples such as Library and Book classes.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 3 – Static, Final & Inbuilt Keywords](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
+
+---
 
