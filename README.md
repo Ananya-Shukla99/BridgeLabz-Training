@@ -191,122 +191,144 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 
 ---
 
-## Week 2: Object-oriented Programming
+## 📘 Week 2: Object-Oriented Programming
 
 ---
 
 ### 📅 Day 1 – Introduction to Object-Oriented Programming  
-**(Date: 26-Dec-2025)**
+(Date: 26-Dec-2025)
 
-- Studied Procedural Programming and its limitations.
-- Compared Procedural Programming with Object-Oriented Programming.
-- Understood why OOP is preferred in modern software development.
-- Learned core OOP concepts:
-  - Class  
-  - Object  
-  - Encapsulation  
-  - Abstraction  
-  - Inheritance  
-  - Polymorphism  
+● Studied Procedural Programming and its limitations.  
+● Compared Procedural Programming with Object-Oriented Programming.  
+● Understood why OOP is preferred in modern software development.  
 
-- Implemented a sample program using procedural approach.
-- Committed and pushed solutions to the repository.
+● Learned core OOP concepts:
+  ● Class  
+  ● Object  
+  ● Encapsulation  
+  ● Abstraction  
+  ● Inheritance  
+  ● Polymorphism  
 
-🔗 **Code Link:**  
-👉 [Day 1 – Introduction to OOP](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
+● Implemented a sample program using a procedural approach.  
+● Committed and pushed solutions to the repository.
+
+🔗 Code Link:  
+👉 [Classes and Objects](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
 
 ---
+
 ### 📅 Day 2 – Constructors & Class Members  
-**(Date: 27-Dec-2025)**
+(Date: 27-Dec-2025)
 
-- Studied constructors and object initialization.
-- Learned default, parameterized, and copy constructors.
-- Practiced constructor overloading.
-- Implemented various example.
-- Learned access modifiers (`public`, `protected`, `default`, `private`).
-- Understood instance vs static variables and methods.
-- Committed and pushed solutions to the repository.
+● Studied constructors and object initialization.  
+● Learned default, parameterized, and copy constructors.  
+● Practiced constructor overloading.  
+● Implemented multiple examples.  
 
-🔗 **Code Link:**  
-👉 [Day 2 – Constructors & Class Members](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
+● Learned access modifiers:
+  ● public  
+  ● protected  
+  ● default  
+  ● private  
+
+● Understood instance vs static variables and methods.  
+● Committed and pushed solutions to the repository.
+
+🔗 Code Link:  
+👉[Constructors](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
 ---
+
 ### 📅 Day 3 – Static, Final & Inbuilt Keywords  
-**(Date: 28-Dec-2025)**
+(Date: 28-Dec-2025)
 
-- Studied the `static` keyword and its usage in Java.
-- Learned about static variables and static methods.
-- Understood the purpose of the `final` keyword.
-- Practiced commonly used inbuilt keywords:
-  - this
-  - instanceof
-- Implemented programs demonstrating static and final members.
-- Created real-world examples such as Library and Book classes.
-- Committed and pushed solutions to the repository.
+● Studied the static keyword and its usage in Java.  
+● Learned about static variables and static methods.  
+● Understood the purpose of the final keyword.  
 
-🔗 **Code Link:**  
-👉 [Day 3 – Static, Final & Inbuilt Keywords](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
+● Practiced commonly used inbuilt keywords:
+  ● this  
+  ● instanceof  
+
+● Implemented programs demonstrating static and final members.  
+● Created real-world examples such as Library and Book classes.  
+● Committed and pushed solutions to the repository.
+
+🔗 Code Link:  
+👉 [Static, Final & Inbuilt Keywords](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
 
 ---
 
 ### 📅 Day 4 – Object-Oriented Design Principles  
-**(Date: 29-Dec-2025)**
+(Date: 29-Dec-2025)
 
-- Studied Object-Oriented Design (OOD) principles.
-- Learned best practices for:
-  - Class Diagrams
-  - Object Diagrams
-  - Sequence Diagrams
-- Understood UML-based modeling of real-world problems.
-- Applied design principles to:
-  - School Results Application
-  - Grocery Store Bill Generation Application
-- Submitted Object-Oriented Design Principles assignment.
+● Studied Object-Oriented Design (OOD) principles.  
 
-🔗 **Submission:**  
-👉[ Day 4 - Object-Oriented Design Principles](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples/levelone)
+● Learned best practices for:
+  ● Class Diagrams  
+  ● Object Diagrams  
+  ● Sequence Diagrams  
 
-# 📅 Week 2 – Scenario-Based Practice (Core Java)
+● Understood UML-based modeling of real-world problems.  
 
-## Overview
+● Applied design principles to:
+  ● School Results Application  
+  ● Grocery Store Bill Generation Application  
+
+● Submitted Object-Oriented Design Principles assignment.
+
+🔗 Submission:  
+👉 [Design Principles](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples/levelone)
+
+---
+
+## 📅 Week 2 – Scenario-Based Practice (Core Java)
+
+● Overview  
 Practiced real-world Java scenarios to strengthen logic and core concepts.
 
-## Scenarios Covered
+● Scenarios Covered  
 Discount system, attendance tracking, recharge simulator, temperature logger, train booking, fitness tracker, movie booking, library fine calculator, digital watch, online quiz, currency converter, bus distance tracker, and lucky draw.
 
-## Concepts Used
+● Concepts Used  
 Loops, if-else, switch, arrays, break, continue, and user input handling.
 
-## Outcome
+● Outcome  
 Improved problem-solving skills and practical understanding of Core Java.
-🔗 **Submission:**  
-👉[ Week 2 - Scenario-Based Practice ](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
-📅 Day 5 – Inheritance in Java  
+🔗 Submission:  
+👉[Scenario-Based Practice]( https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 📅 Day 5 – Inheritance in Java  
+(Date: 30-Dec-2025)
 
 ● Learned the concept of Inheritance for code reusability and scalability.
 
-● Types of Inheritance covered:
+● Types of Inheritance Covered:
   ● Single Level Inheritance  
   ● Multilevel Inheritance  
   ● Hierarchical Inheritance  
 
-● Key features of Inheritance:
+● Key Features of Inheritance:
   ● IS-A relationship  
   ● Code reusability  
   ● Runtime Polymorphism  
 
-● Practiced Method Overriding and its rules.
+● Practiced Method Overriding and its rules.  
 
 ● Studied Constructor Inheritance:
   ● super() keyword  
   ● Constructor chaining and execution order  
 
-● Understood Polymorphism with Inheritance using parent references.
-
+● Understood Polymorphism with Inheritance using parent references.  
 ● Learned Access Modifiers behavior in Inheritance.
 
-🔗 Code Link:
-👉[ Day 5 – Inheritance](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/Inheritance)
+🔗 Submission:  
+👉 [Inheritance](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/Inheritance)
 
-✨ *More updates coming as I continue my Java journey...*
+---
+
+✨ More updates coming as I continue my Java journey...
