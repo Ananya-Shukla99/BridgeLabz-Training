@@ -330,5 +330,18 @@ Improved problem-solving skills and practical understanding of Core Java.
 👉 [Inheritance](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/Inheritance)
 
 ---
+### 📅 Day 6 – Encapsulation, Interface, Abstract Classes & Polymorphism  
+(Date: 31-Dec-2025)
+
+● Learned Encapsulation using private variables and getters/setters.  
+● Understood Polymorphism through method overloading and overriding.  
+● Studied Interfaces and their role in multiple inheritance.  
+● Learned Abstract Classes and their use in abstraction.  
+● Implemented examples and pushed code to the repository.
+
+🔗 Submission:  
+👉 [Encapsulation, Interface, Abstract Classes & Polymorphism]
+
+---
 
 ✨ More updates coming as I continue my Java journey...
