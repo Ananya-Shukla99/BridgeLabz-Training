@@ -75,3 +75,30 @@
 
 🔗 **Submission:**  
 👉[ Day 4 - Object-Oriented Design Principles](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples/levelone)
+
+📅 Day 5 – Inheritance in Java  
+
+● Learned the concept of Inheritance for code reusability and scalability.
+
+● Types of Inheritance covered:
+  ● Single Level Inheritance  
+  ● Multilevel Inheritance  
+  ● Hierarchical Inheritance  
+
+● Key features of Inheritance:
+  ● IS-A relationship  
+  ● Code reusability  
+  ● Runtime Polymorphism  
+
+● Practiced Method Overriding and its rules.
+
+● Studied Constructor Inheritance:
+  ● super() keyword  
+  ● Constructor chaining and execution order  
+
+● Understood Polymorphism with Inheritance using parent references.
+
+● Learned Access Modifiers behavior in Inheritance.
+
+🔗 Code Link:
+👉[ Day 5 – Inheritance](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/Inheritance)
