@@ -136,7 +136,7 @@ BridgeLabz-Training/
 👉 [Day 7 – Java Strings](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
-### 📅 Week 1 – Scenario-Based Practice
+### 📅 Week 1- Day 1 – Scenario-Based Practice 
 **(Date: 23-Dec-2025)**
 
 - Practice Overview :
@@ -168,7 +168,7 @@ BridgeLabz-Training/
 
 ---
 ---
-# Week 1 – Day 2: Scenario-Based Core Java Practice
+# Week 1 – Day 2: Scenario-Based-Practice
 
 ## Overview
 Solved scenario-based Core Java problems focusing on real-world logic and problem-solving.
@@ -283,7 +283,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 
 ---
 
-## 📅 Week 2 – Scenario-Based Practice (Core Java)
+## 📅 Week 2- Day 3 – Scenario-Based Practice (Core Java)
 
 ● Overview  
 Practiced real-world Java scenarios to strengthen logic and core concepts.
