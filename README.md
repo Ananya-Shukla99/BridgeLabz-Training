@@ -344,4 +344,15 @@ Improved problem-solving skills and practical understanding of Core Java.
 
 ---
 
+## 📘 Week 2 –  Scenario-Based Java Oops practice
+
+● Implemented real-world Java applications using mini use-case scenarios.  
+● Used Classes, Methods, Constructors, and Operators.  
+● Applied Access Modifiers for data security and control.  
+● Implemented Interfaces for abstraction and flexibility.  
+● Applied OOP principles: Encapsulation, Inheritance, Abstraction, Polymorphism.  
+● Improved practical understanding through hands-on problem solving.
+
+---
+
 ✨ More updates coming as I continue my Java journey...
