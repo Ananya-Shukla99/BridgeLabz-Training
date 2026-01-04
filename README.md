@@ -340,7 +340,7 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Implemented examples and pushed code to the repository.
 
 🔗 Submission:  
-👉 [Encapsulation, Interface, Abstract Classes & Polymorphism]
+👉 [Encapsulation, Interface, Abstract Classes & Polymorphism](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism/levelone)
 
 ---
 
@@ -353,6 +353,8 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Applied OOP principles: Encapsulation, Inheritance, Abstraction, Polymorphism.  
 ● Improved practical understanding through hands-on problem solving.
 
+🔗 Submission:  
+👉 [Scenario-based](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
 ---
 
 ### 📅 Week 3 – Day 1: Introduction to Data Structures  
