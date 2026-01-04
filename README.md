@@ -366,5 +366,14 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Built a foundation for advanced Data Structures and algorithms.
 
 ---
+📅 Week 3 – Day 2: Linked List Best Practices
+
+● Managed head/tail for faster operations
+● Used null checks to avoid errors
+● Ensured efficient insertions and deletions
+● Handled edge cases safely
+● Prevented infinite loops in circular lists
+● Kept code simple and modular
+---
 
 ✨ More updates coming as I continue my Java journey...
