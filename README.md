@@ -376,6 +376,19 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Handled edge cases safely
 ● Prevented infinite loops in circular lists
 ● Kept code simple and modular
+
+---
+
+📅 Week 3 – Day 3: Stack, Queue & Hashing
+
+● Learned the concept of Stack and its LIFO (Last In, First Out) behavior.
+● Implemented Stack operations such as push, pop, peek, and isEmpty.
+● Understood Queue and its FIFO (First In, First Out) principle.
+● Implemented Queue operations like enqueue, dequeue, and front.
+● Studied HashMap and how key–value pairs are stored.
+● Learned the working of Hashing Functions and collision handling.
+● Explored use cases of Stack, Queue, and HashMap in real-world applications.
+
 ---
 
 
