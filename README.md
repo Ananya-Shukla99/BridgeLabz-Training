@@ -405,6 +405,20 @@ Improved problem-solving skills and practical understanding of Core Java.
 
 ---
 
+📅 Week 3 – Day 4: Sorting Algorithms
+
+● Learned different sorting algorithms and their applications.
+● Implemented sorting techniques using arrays.
+
+● Bubble Sort – Compared adjacent elements and swapped until sorted.
+● Insertion Sort – Inserted elements into their correct position.
+● Selection Sort – Selected the minimum element and placed it in order.
+● Merge Sort – Divided array, sorted halves, and merged them.
+● Quick Sort – Used pivot to partition and sort recursively.
+● Heap Sort – Built Max Heap and extracted elements in order.
+● Counting Sort – Counted frequencies to generate sorted output.
+
+---
 
 
 ✨ More updates coming as I continue my Java journey...
