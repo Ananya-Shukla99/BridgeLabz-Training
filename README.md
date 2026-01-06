@@ -355,6 +355,7 @@ Improved problem-solving skills and practical understanding of Core Java.
 
 🔗 Submission:  
 👉 [Scenario-based](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
 ---
 
 ### 📅 Week 3 – Day 1: Introduction to Data Structures  
@@ -367,6 +368,9 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Understood Circular Linked List and its use cases.
 ● Built a foundation for advanced Data Structures and algorithms.
 
+🔗 Submission:  
+👉 [Linked-List](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/circularlinkedlist)
+
 ---
 📅 Week 3 – Day 2: Linked List Best Practices
 
@@ -376,6 +380,9 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Handled edge cases safely
 ● Prevented infinite loops in circular lists
 ● Kept code simple and modular
+
+🔗 Submission:  
+👉 [Linked-List](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/circularlinkedlist)
 
 ---
 
@@ -389,6 +396,15 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Learned the working of Hashing Functions and collision handling.
 ● Explored use cases of Stack, Queue, and HashMap in real-world applications.
 
+🔗 Submission:  
+👉 [Stack](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stack)
+
+👉 [Queue](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stack)
+
+👉 [HashMap](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmaps)
+
 ---
+
+
 
 ✨ More updates coming as I continue my Java journey...
