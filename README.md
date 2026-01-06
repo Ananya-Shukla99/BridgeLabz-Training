@@ -417,6 +417,9 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Heap Sort – Built a Max Heap and extracted elements in order.  
 ● Counting Sort – Counted frequencies to generate sorted output.  
 
+🔗 Submission:  
+👉 [Sorting Algorithm ](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)  
+
 ---
 
 ✨ More updates coming as I continue my Java journey...
