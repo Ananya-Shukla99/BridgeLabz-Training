@@ -16,21 +16,33 @@
 ``` bash
 BridgeLabz-Training/
 │
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   │   ├── arrays/
-│   │   ├── control-flow/
-│   │   ├── extras/
-│   │   ├── method/
-│   │   ├── programming-elements/
-│   │   ├── programming-prerequisite/
-│   │   └── strings/
-│   │
-│   ├── leet-code-codebase/
-│   ├── scenario-based/
-│   │── README.md
-```
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation 
+│   │   └── 📁 Extras/                 # Built-in methods
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   ├── 📁 scenario-based-codebase/    # Real-world problems
+│   └── 📄 README.md    # Readme file for week 1
+│
+└── 📁 java-oops-practice/
+    └── 📁 gcr-codebase/
+        └── 📁 JavaOopsConcepts/
+        │    └── 📁 src/
+        │        └── 📁 com/
+        │            ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+        │            └── 📁 constructor/       # Constructor, access modifiers
+        │            └── 📁 encapsulationandpolymorphism/    # Encapsulation Access Modifier & Polymorphism
+        │            └── 📁 objectmodeling/    # Diagrams, relationships, communication
+        │            └── 📁 inheritance/       # Types, method overriding, & access modifiers
+        ├── 📁 scenario-based-codebase/    # Real-world problems
+        └── 📄 README.md    # Readme file for week 2
 
+```
 - Learned basic Git commands:
   - `git init`
   - `git clone`
@@ -167,8 +179,8 @@ BridgeLabz-Training/
 👉 [Week 1  – Scenario-Based](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
----
-# Week 1 – Day 2: Scenario-Based-Practice
+
+## Week 1 – Day 2: Scenario-Based-Practice
 
 ## Overview
 Solved scenario-based Core Java problems focusing on real-world logic and problem-solving.
@@ -421,5 +433,25 @@ Improved problem-solving skills and practical understanding of Core Java.
 👉 [Sorting Algorithm ](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)  
 
 ---
+
+## 📘 Week 3 – Scenario-Based Java OOP Practice
+
+Focused on building real-world, scenario-based Java applications to strengthen
+Object-Oriented Programming (OOP) concepts.
+
+### 🚀 Highlights
+- Implemented mini systems like ParkEase, LoanBuddy, BookBazaar, PetPal, and EventEase
+- Used classes, constructors, and methods in practical use cases
+- Applied encapsulation for data security
+- Used inheritance and polymorphism for dynamic behavior
+- Implemented interfaces for abstraction
+- Performed calculations using operators
+
+### 🧠 Key Takeaway
+Gained hands-on experience in designing clean and maintainable Java applications using OOP principles.
+
+🔗 Submission:
+👉 [Scenario-Based-Opps](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
 
 ✨ More updates coming as I continue my Java journey...
