@@ -468,6 +468,8 @@ Gained hands-on experience in designing clean and maintainable Java applications
 🔗 Submission:  
 👉 [Binary Search Algorithms](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/binarysearch)
 
+👉 [Linear Search Algorithms](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearsearch)
+
 ---
 
 ✨ More updates coming as I continue my Java journey...
