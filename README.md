@@ -453,5 +453,21 @@ Gained hands-on experience in designing clean and maintainable Java applications
 🔗 Submission:
 👉 [Scenario-Based-Opps](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
 
+### 📅 Week 3 – Day 5: Searching Algorithms  
+
+● Learned Java best practices for efficient **string handling** and **file I/O**.  
+● Understood searching techniques and their real-world use cases.  
+
+● StringBuilder – Used for efficient string modification in performance-critical scenarios.  
+● StringBuffer – Applied for thread-safe string manipulation.  
+● FileReader – Read character-based text files.  
+● InputStreamReader – Converted byte streams into character streams.  
+● Linear Search – Searched elements sequentially in unsorted or small datasets.  
+● Binary Search – Performed fast lookups on sorted data using divide and conquer.  
+
+🔗 Submission:  
+👉 [Binary Search Algorithms](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/binarysearch)
+
+---
 
 ✨ More updates coming as I continue my Java journey...
