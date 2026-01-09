@@ -470,6 +470,16 @@ Gained hands-on experience in designing clean and maintainable Java applications
 
 👉 [Linear Search Algorithms](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearsearch)
 
+👉 [Challenge problems](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/challengeproblem)
+
+👉 [File Reade](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/filereader)
+
+👉 [Input Stream Reader](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/inputstreamreader)
+
+👉 [String Buffer](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stringbuffer)
+
+👉 [String Builder](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stringbuilder)
+
 ---
 
 ✨ More updates coming as I continue my Java journey...
