@@ -1,0 +1,5 @@
+Welcome to Java File Handling.
+This file is used for practicing FileReader.
+Each line will be read one by one.
+BufferedReader makes reading faster.
+End of the sample file.
