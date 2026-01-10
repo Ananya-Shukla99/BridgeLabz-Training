@@ -481,5 +481,27 @@ Gained hands-on experience in designing clean and maintainable Java applications
 👉 [String Builder](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stringbuilder)
 
 ---
+### 📅 Week 3 – Day 6: Runtime Analysis & Big O Notation  
+**(Date: 07-Jan-2026)**  
 
+● Learned how to evaluate **algorithm efficiency** using **Big O Notation**.  
+● Analyzed how **time and space complexity** change as input size grows.  
+
+● Linear Search – O(N) – Sequential search in large datasets.  
+● Binary Search – O(log N) – Faster searching in sorted collections.  
+● Bubble Sort – O(N²) – Inefficient for large datasets.  
+● Merge Sort – O(N log N) – Efficient divide-and-conquer sorting.  
+● Quick Sort – O(N log N) – High-performance sorting for most cases.  
+● String vs StringBuilder/StringBuffer – O(N²) vs O(N) – Mutable strings improve performance.  
+● FileReader vs InputStreamReader – Character vs byte-based file reading efficiency.  
+● Recursive Fibonacci – O(2ⁿ) – Exponential and slow.  
+● Iterative Fibonacci – O(N) – Faster and memory-efficient.  
+● Array Search – O(N) – Linear lookup.  
+● HashSet Search – O(1) – Constant-time access.  
+● TreeSet Search – O(log N) – Ordered and efficient lookup.  
+
+🔗 **Submission:**  
+👉 Runtime Analysis & Big O Notation Exercises  
+
+---
 ✨ More updates coming as I continue my Java journey...
