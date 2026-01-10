@@ -482,7 +482,6 @@ Gained hands-on experience in designing clean and maintainable Java applications
 
 ---
 ### 📅 Week 3 – Day 6: Runtime Analysis & Big O Notation  
-**(Date: 07-Jan-2026)**  
 
 ● Learned how to evaluate **algorithm efficiency** using **Big O Notation**.  
 ● Analyzed how **time and space complexity** change as input size grows.  
@@ -501,7 +500,7 @@ Gained hands-on experience in designing clean and maintainable Java applications
 ● TreeSet Search – O(log N) – Ordered and efficient lookup.  
 
 🔗 **Submission:**  
-👉 Runtime Analysis & Big O Notation Exercises  
+👉[Runtime Analysis & Big O Notation Exercises](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/algorithmanalysis)
 
 ---
 ✨ More updates coming as I continue my Java journey...
