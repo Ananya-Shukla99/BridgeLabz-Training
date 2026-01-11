@@ -180,7 +180,7 @@ BridgeLabz-Training/
 
 ---
 
-## Week 1 – Day 2: Scenario-Based-Practice
+### Week 1 – Day 2: Scenario-Based-Practice
 
 ## Overview
 Solved scenario-based Core Java problems focusing on real-world logic and problem-solving.
@@ -501,6 +501,21 @@ Gained hands-on experience in designing clean and maintainable Java applications
 
 🔗 **Submission:**  
 👉[Runtime Analysis & Big O Notation Exercises](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/algorithmanalysis)
+
+---
+### 📅 Week 3 – Day 7 : Real-World Scenario-Based OOP Problems  
+  
+● Worked on **multiple real-world problem statements** to strengthen understanding of **Object-Oriented Programming**.  
+● Designed **scalable and modular systems** using core OOP principles.  
+
+● Encapsulation – Protected sensitive data and enforced controlled access.  
+● Inheritance – Modeled logical hierarchies and promoted code reuse.  
+● Polymorphism – Enabled flexible behavior based on object types.  
+● Abstraction – Simplified complex systems through essential interfaces.  
+● Scenario-Based Design – Improved system design and interview readiness.  
+
+🔗 **Submission:**  
+👉 [Scenario Based Question Implementation]
 
 ---
 ✨ More updates coming as I continue my Java journey...
