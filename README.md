@@ -503,6 +503,7 @@ Gained hands-on experience in designing clean and maintainable Java applications
 👉[Runtime Analysis & Big O Notation Exercises](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/algorithmanalysis)
 
 ---
+
 ### 📅 Week 3 – Day 7 : Real-World Scenario-Based OOP Problems  
   
 ● Worked on **multiple real-world problem statements** to strengthen understanding of **Object-Oriented Programming**.  
@@ -510,12 +511,12 @@ Gained hands-on experience in designing clean and maintainable Java applications
 
 ● Encapsulation – Protected sensitive data and enforced controlled access.  
 ● Inheritance – Modeled logical hierarchies and promoted code reuse.  
-● Polymorphism – Enabled flexible behavior based on object types.  
+● Polymorphism – Enabled flexible behavior based on object types. 
 ● Abstraction – Simplified complex systems through essential interfaces.  
 ● Scenario-Based Design – Improved system design and interview readiness.  
 
 🔗 **Submission:**  
-👉 [Scenario Based Question Implementation]
+👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
 
 ---
 ✨ More updates coming as I continue my Java journey...
