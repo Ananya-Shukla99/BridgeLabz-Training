@@ -215,6 +215,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 ● Understood why OOP is preferred in modern software development.  
 
 ● Learned core OOP concepts:
+
   ● Class  
   ● Object  
   ● Encapsulation  
@@ -239,6 +240,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 ● Implemented multiple examples.  
 
 ● Learned access modifiers:
+
   ● public  
   ● protected  
   ● default  
@@ -260,6 +262,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 ● Understood the purpose of the final keyword.  
 
 ● Practiced commonly used inbuilt keywords:
+
   ● this  
   ● instanceof  
 
@@ -278,6 +281,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 ● Studied Object-Oriented Design (OOD) principles.  
 
 ● Learned best practices for:
+
   ● Class Diagrams  
   ● Object Diagrams  
   ● Sequence Diagrams  
@@ -285,6 +289,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 ● Understood UML-based modeling of real-world problems.  
 
 ● Applied design principles to:
+
   ● School Results Application  
   ● Grocery Store Bill Generation Application  
 
@@ -320,11 +325,13 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Learned the concept of Inheritance for code reusability and scalability.
 
 ● Types of Inheritance Covered:
+
   ● Single Level Inheritance  
   ● Multilevel Inheritance  
   ● Hierarchical Inheritance  
 
 ● Key Features of Inheritance:
+
   ● IS-A relationship  
   ● Code reusability  
   ● Runtime Polymorphism  
@@ -332,6 +339,7 @@ Improved problem-solving skills and practical understanding of Core Java.
 ● Practiced Method Overriding and its rules.  
 
 ● Studied Constructor Inheritance:
+
   ● super() keyword  
   ● Constructor chaining and execution order  
 
