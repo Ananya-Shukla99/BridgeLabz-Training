@@ -519,4 +519,16 @@ Gained hands-on experience in designing clean and maintainable Java applications
 👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
 
 ---
+📅 Week 3 : Real-World Scenario-Based DSA Problems  
+
+● Worked on multiple real-world problem statements to strengthen understanding of Data Structures & Algorithms.  
+● Designed efficient and optimized systems by choosing the right data structures for each scenario.  
+
+● HashMap + LinkedList – Implemented fast and flexible genre-wise book management in BookShelf – Library Organizer.  
+● Doubly Linked List + Stack – Built a complete tab history & restore system in BrowserBuddy – Tab History Manager.  
+● Circular Linked List – Designed a dynamic hospital rotation system in AmbulanceRoute – Emergency Navigation.  
+● Scenario-Based Design – Improved problem-solving skills and interview readiness through real-world simulations.  
+
+---
+
 ✨ More updates coming as I continue my Java journey...
