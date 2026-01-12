@@ -529,6 +529,9 @@ Gained hands-on experience in designing clean and maintainable Java applications
 ● Circular Linked List – Designed a dynamic hospital rotation system in AmbulanceRoute – Emergency Navigation.  
 ● Scenario-Based Design – Improved problem-solving skills and interview readiness through real-world simulations.  
 
+🔗 **Submission:**  
+👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
 ---
 
 ✨ More updates coming as I continue my Java journey...
