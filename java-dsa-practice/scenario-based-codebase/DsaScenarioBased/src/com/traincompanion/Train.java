@@ -12,11 +12,11 @@ public class Train {
 		// first compartment
 		if (head == null) {
 			head = tail = c;
-			current = head;  
+			current = head;
 			System.out.println("First compartment added : " + c.getName());
 			return;
 		} else {
-			tail.next=c;
+			tail.next = c;
 			c.prev = tail;
 			tail = c;
 			System.out.println("Compartment added : " + c.getName());
@@ -26,65 +26,65 @@ public class Train {
 	// remove compartment
 	public void removeCompartment(Compartment c) {
 
-	    if (head == null) {
-	        System.out.println("Train has no compartment");
-	        return;
-	    }
+		if (head == null) {
+			System.out.println("Train has no compartment");
+			return;
+		}
 
-	    Compartment temp = head;
+		Compartment temp = head;
 
-	    while (temp != null) {
+		while (temp != null) {
 
-	        if (temp.id == c.id) {
+			if (temp.id == c.id) {
 
-	            // If current is being removed, move it
-	            if (current == temp) {
-	                if (temp.next != null)
-	                    current = temp.next;
-	                else
-	                    current = temp.prev;
-	            }
+				// If current is being removed, move it
+				if (current == temp) {
+					if (temp.next != null)
+						current = temp.next;
+					else
+						current = temp.prev;
+				}
 
-	            // If removing head
-	            if (temp == head) {
-	                head = temp.next;
-	                if (head != null)
-	                    head.prev = null;
-	            }
+				// If removing head
+				if (temp == head) {
+					head = temp.next;
+					if (head != null)
+						head.prev = null;
+				}
 
-	            // If removing tail
-	            else if (temp == tail) {
-	                tail = temp.prev;
-	                tail.next = null;
-	            }
+				// If removing tail
+				else if (temp == tail) {
+					tail = temp.prev;
+					tail.next = null;
+				}
 
-	            // If removing middle
-	            else {
-	                temp.prev.next = temp.next;
-	                temp.next.prev = temp.prev;
-	            }
+				// If removing middle
+				else {
+					temp.prev.next = temp.next;
+					temp.next.prev = temp.prev;
+				}
 
-	            System.out.println("Compartment removed: " + temp.getName());
-	            return;
-	        }
+				System.out.println("Compartment removed: " + temp.getName());
+				return;
+			}
 
-	        temp = temp.next;
-	    }
+			temp = temp.next;
+		}
 
-	    System.out.println("Compartment not found");
+		System.out.println("Compartment not found");
 	}
-	
+
 	// move forward
 	public void moveForward() {
 
 		if (current == null) {
-	        System.out.println("No compartments");
-	        return;
-	    }
+			System.out.println("No compartments");
+			return;
+		}
 		if (current.next == null) {
 			System.out.println(current.getName() + " is the last compartment");
 		} else {
-			current= current.next;
+			current = current.next;
 			System.out.println("Moved to " + current.getName());
 		}
 	}
@@ -93,9 +93,9 @@ public class Train {
 	public void moveBackward() {
 
 		if (current == null) {
-	        System.out.println("No compartments");
-	        return;
-	    }
+			System.out.println("No compartments");
+			return;
+		}
 		if (current.prev == null) {
 			System.out.println(current.getName() + " is the first compartment");
 		} else {
@@ -106,7 +106,8 @@ public class Train {
 
 	// Display adjacent compartments for quick decisions
 	public void adjacentShow(Compartment c) {
-		if (current == null) return;
+		if (current == null)
+			return;
 
 		if (c.next == null) {
 			System.out.println("This compartment is " + c.getName());
