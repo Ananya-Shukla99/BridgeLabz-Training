@@ -542,7 +542,7 @@ Gained hands-on experience in designing clean and maintainable Java applications
 
 ---
 
-📅 Week 3 : Advanced Scenario-Based OOP & Java Concepts (13-Jan-2026)
+📅 Week 3 : Advanced Scenario-Based OOP & Java Concepts
 
 • Implemented real-world OOP systems using Encapsulation, Inheritance, Interfaces, and Polymorphism.
 
@@ -556,5 +556,18 @@ Gained hands-on experience in designing clean and maintainable Java applications
 
 ---
 
+📅 Day 23 : Advanced Scenario-Based DSA Problems 
+
+• Applied Queues, Stacks, HashMaps, Priority Queues, and Doubly Linked Lists in real-world systems.
+
+• Queue + PriorityQueue → CallCenter – Customer Queue Manager  
+• Doubly Linked List → TrainCompanion – Compartment Navigation System  
+• Stack (Undo/Redo) → TextEditor – Action History Manager  
+• Scenario-Based DSA → Improved efficiency and interview-level problem solving  
+
+🔗 **Submission:**  
+👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
+---
 
 ✨ More updates coming as I continue my Java journey...
