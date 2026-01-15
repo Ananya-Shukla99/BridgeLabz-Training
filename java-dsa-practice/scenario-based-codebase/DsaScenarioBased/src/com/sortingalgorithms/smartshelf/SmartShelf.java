@@ -1,0 +1,20 @@
+package com.sortingalgorithms.smartshelf;
+
+public class SmartShelf {
+
+	public static void insertionSort(Book[] books, int n) {
+
+		for (int i = 1; i < n; i++) {
+			Book key = books[i];
+			int j = i - 1;
+
+			// Move books that are greater than key.title forward
+			while (j >= 0 && books[j].title.compareToIgnoreCase(key.title) > 0) {
+				books[j + 1] = books[j];
+				j--;
+			}
+
+			books[j + 1] = key;
+		}
+	}
+}
