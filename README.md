@@ -542,4 +542,19 @@ Gained hands-on experience in designing clean and maintainable Java applications
 
 ---
 
+📅 Week 3 : Advanced Scenario-Based OOP & Java Concepts (13-Jan-2026)
+
+• Implemented real-world OOP systems using Encapsulation, Inheritance, Interfaces, and Polymorphism.
+
+• Inheritance + Interface → PayXpress – Utility Bill Payment System  
+• Base Class + Interfaces → EcoWing – Bird Sanctuary Management System  
+• Annotations + Reflection → Runtime metadata and dynamic method execution  
+• Scenario-Based Design → Improved problem-solving and interview readiness  
+
+🔗 **Submission:**
+👉 [Scenario-Based Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+---
+
+
 ✨ More updates coming as I continue my Java journey...
