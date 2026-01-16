@@ -567,5 +567,17 @@ Gained hands-on experience in designing clean and maintainable Java applications
 👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 
 ---
+📅 Week 3 : Advanced Scenario-Based Sorting Algorithm Problems 
+
+• Applied Sorting Algorithms in real-world systems
+• Insertion Sort → RoboWarehouse – Shelf Loading Robot
+• Bubble Sort → CinemaHouse – Movie Time Sorting
+• Quick Sort → CropMonitor – Sensor Data Ordering
+• Learned efficient algorithm selection and interview-oriented problem solving
+
+🔗 **Submission:**  
+👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
+---
 
 ✨ More updates coming as I continue my Java journey...
