@@ -300,7 +300,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 
 ---
 
-## 📅 Week 2- Day 3 – Scenario-Based Practice (Core Java)
+## 📅 Week 2 – Scenario-Based Practice (Core Java) 
 
 ● Overview  
 Practiced real-world Java scenarios to strengthen logic and core concepts.
@@ -351,7 +351,6 @@ Improved problem-solving skills and practical understanding of Core Java.
 
 ---
 ### 📅 Day 6 – Encapsulation, Interface, Abstract Classes & Polymorphism  
-(Date: 31-Dec-2025)
 
 ● Learned Encapsulation using private variables and getters/setters.  
 ● Understood Polymorphism through method overloading and overriding.  
@@ -556,10 +555,9 @@ Gained hands-on experience in designing clean and maintainable Java applications
 
 ---
 
-📅 Day 23 : Advanced Scenario-Based DSA Problems 
+📅 Week 3 : Advanced Scenario-Based DSA Problems 
 
 • Applied Queues, Stacks, HashMaps, Priority Queues, and Doubly Linked Lists in real-world systems.
-
 • Queue + PriorityQueue → CallCenter – Customer Queue Manager  
 • Doubly Linked List → TrainCompanion – Compartment Navigation System  
 • Stack (Undo/Redo) → TextEditor – Action History Manager  
