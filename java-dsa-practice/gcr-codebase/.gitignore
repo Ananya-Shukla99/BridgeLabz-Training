@@ -1,0 +1,19 @@
+/.metadata/
+# =========================
+# Eclipse Workspace
+# =========================
+.metadata/
+.gitignore/
+
+# =========================
+# Eclipse Project Files
+# =========================
+.settings/
+.project
+.classpath
+
+# =========================
+# Java Build Output
+# =========================
+bin/
+JavaDsaPractice/src/module-info.java
