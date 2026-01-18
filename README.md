@@ -579,5 +579,22 @@ Gained hands-on experience in designing clean and maintainable Java applications
 👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 
 ---
+📅 Week 3 : Advanced Scenario-Based OOP & Java Concepts
 
+• Implemented real-world, story-driven Java applications using core OOP principles.
+
+• Inheritance + Interfaces → HomeNest – Smart Home Device Manager  
+• Encapsulation + Inheritance → BudgetWise – Personal Finance Tracker  
+• Abstraction + Interfaces → GameBox – Mobile Game Distribution Platform  
+• Inheritance + Interfaces → PayXpress – Utility Bill Payment System  
+• Base Class + Interfaces → EcoWing – Bird Sanctuary Management System  
+• Annotations + Reflection → Runtime metadata access and dynamic method execution  
+• Core OOP Foundations → Line Comparison System, Bag-n-Ball Organizer  
+
+• Scenario-Based Design → Enhanced problem-solving skills and interview readiness
+
+🔗 Submission: 
+👉 [Scenario-Based Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+---
 ✨ More updates coming as I continue my Java journey...
