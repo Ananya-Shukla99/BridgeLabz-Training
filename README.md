@@ -597,4 +597,28 @@ Gained hands-on experience in designing clean and maintainable Java applications
 👉 [Scenario-Based Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
 
 ---
+
+📅 Week 4 : Day 1 - Advanced Java Generics & Best Practices
+
+• Explored best practices for using Java Generics to build type-safe, reusable, and maintainable applications.
+
+• Type Safety with Generics → Compile-time checks to prevent ClassCastException  
+• Generic Methods → Reduced redundancy and improved reusability over method overloading  
+• Upper Bounded Wildcards (? extends T) → Safe read-only access for inherited types  
+• Lower Bounded Wildcards (? super T) → Controlled write operations with superclass compatibility  
+• Avoiding Raw Types → Enforced use of parameterized collections for safer code  
+• Bounded Type Parameters (<T extends Class>) → Restricted and validated generic usage  
+• Generic Interfaces → Designed flexible and reusable APIs  
+• Controlled Wildcard Usage → Simplified public APIs and improved type inference  
+• Generics with Streams & Functional Interfaces → Cleaner, functional-style data processing  
+• Generic Constructors → Flexible and type-safe object creation  
+• Type Erasure Awareness → Avoided runtime pitfalls and incorrect instanceof usage  
+• Composition over Inheritance → Cleaner and more maintainable generic designs  
+• Readable Generic Design → Simple hierarchies with meaningful type parameters  
+
+• Best Practices Implementation → Improved code quality, scalability, and interview readiness
+
+🔗 Submission:
+👉 [Java Generics Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-generics-practice)
+
 ✨ More updates coming as I continue my Java journey...
