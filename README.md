@@ -135,6 +135,7 @@
 👉 [Encapsulation, Interface, Abstract Classes & Polymorphism]
 
 ---
+
 ## 📘 Week 2 –  Scenario-Based Java Oops practice
 
 ● Implemented real-world Java applications using mini use-case scenarios.  
@@ -146,5 +147,36 @@
 
 ---
 
+📅 Week 3 : Advanced Scenario-Based OOP & Java Concepts
+
+• Implemented real-world OOP systems using Encapsulation, Inheritance, Interfaces, and Polymorphism.
+
+• Inheritance + Interface → PayXpress – Utility Bill Payment System  
+• Base Class + Interfaces → EcoWing – Bird Sanctuary Management System  
+• Annotations + Reflection → Runtime metadata and dynamic method execution  
+• Scenario-Based Design → Improved problem-solving and interview readiness  
+
+🔗 **Submission:**
+👉 [Scenario-Based Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+---
+📅 Week 3 : Advanced Scenario-Based OOP & Java Concepts
+
+• Implemented real-world, story-driven Java applications using core OOP principles.
+
+• Inheritance + Interfaces → HomeNest – Smart Home Device Manager  
+• Encapsulation + Inheritance → BudgetWise – Personal Finance Tracker  
+• Abstraction + Interfaces → GameBox – Mobile Game Distribution Platform  
+• Inheritance + Interfaces → PayXpress – Utility Bill Payment System  
+• Base Class + Interfaces → EcoWing – Bird Sanctuary Management System  
+• Annotations + Reflection → Runtime metadata access and dynamic method execution  
+• Core OOP Foundations → Line Comparison System, Bag-n-Ball Organizer  
+
+• Scenario-Based Design → Enhanced problem-solving skills and interview readiness
+
+🔗 Submission: 
+👉 [Scenario-Based Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src/com)
+
+---
 
 ✨ More updates coming as I continue my Java journey...
