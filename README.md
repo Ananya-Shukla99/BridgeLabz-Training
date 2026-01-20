@@ -621,4 +621,23 @@ Gained hands-on experience in designing clean and maintainable Java applications
 🔗 Submission:
 👉 [Java Generics Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-generics-practice)
 
+## 📅 Week 4 –Advance DSA practice - Trees & Graphs Fundamentals
+
+Focused on understanding **Trees and Graphs** as core non-linear data structures used in complex problem solving and system design.
+
+### 📝 Topics Covered
+- **Trees**
+  - Concept of hierarchical data representation.
+  - Key terminology: root, parent, child, leaf, depth, height.
+  - Types of trees: Binary Tree, Binary Search Tree (BST).
+  - Tree traversals: Inorder, Preorder, Postorder (conceptual understanding).
+  - Use cases: file systems, organizational structures, search optimization.
+
+- **Graphs**
+  - Representation of relationships using vertices and edges.
+  - Types: Directed vs Undirected, Weighted vs Unweighted.
+  - Graph representations: Adjacency List and Adjacency Matrix.
+  - Conceptual understanding of graph traversal (BFS, DFS).
+---
+
 ✨ More updates coming as I continue my Java journey...
