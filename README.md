@@ -640,4 +640,18 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
   - Conceptual understanding of graph traversal (BFS, DFS).
 ---
 
+## 📅 Week 4 - Day 2 – Java Collections Framework
+
+### 📝 Topics Covered
+
+- Learned the structure and purpose of the **Java Collections Framework** for efficient data handling.
+- Studied core collection interfaces: **List, Set, Queue, and Map**.
+- Explored common implementations: `ArrayList`, `LinkedList`, `HashSet`, `TreeSet`, `HashMap`.
+- Understood differences in **ordering, duplication, performance, and use cases**.
+- Practiced choosing the right collection based on **time complexity and problem requirements**.
+
+🔗 **Code:**  
+👉 [Day 2 - Java Collections]
+
+---
 ✨ More updates coming as I continue my Java journey...
