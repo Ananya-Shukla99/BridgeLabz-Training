@@ -598,7 +598,7 @@ Gained hands-on experience in designing clean and maintainable Java applications
 
 ---
 
-📅 Week 4 : Day 1 - Advanced Java Generics & Best Practices
+## 📅 Week 4 : Day 1 - Advanced Java Generics & Best Practices
 
 • Explored best practices for using Java Generics to build type-safe, reusable, and maintainable applications.
 
@@ -655,7 +655,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 
 ---
 
-📅 Week 4 : Real-World Scenario-Based Sorting Algorithm Problems  
+## 📅 Week 4 : Real-World Scenario-Based Sorting Algorithm Problems  
 
 ● Explored real-world problem statements to understand when and why specific sorting algorithms are used.  
 ● Strengthened algorithmic thinking by mapping real-life constraints to optimal sorting techniques.  
