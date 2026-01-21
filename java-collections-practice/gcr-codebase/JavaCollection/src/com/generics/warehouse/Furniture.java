@@ -1,4 +1,4 @@
-package com.warehouse;
+package com.generics.warehouse;
 
 public class Furniture extends WarehouseItem {
 

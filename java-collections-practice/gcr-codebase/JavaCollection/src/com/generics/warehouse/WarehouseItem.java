@@ -1,4 +1,4 @@
-package com.warehouse;
+package com.generics.warehouse;
 
 public abstract class WarehouseItem {
     private String name;
