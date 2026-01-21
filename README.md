@@ -654,4 +654,20 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉 [Day 2 - Java Collections]
 
 ---
+
+📅 Week 4 : Real-World Scenario-Based Sorting Algorithm Problems  
+
+● Explored real-world problem statements to understand when and why specific sorting algorithms are used.  
+● Strengthened algorithmic thinking by mapping real-life constraints to optimal sorting techniques.  
+
+● Bubble Sort – Implemented simple, comparison-based sorting for small and frequently updated datasets in IceCreamRush and FitnessTracker.  
+● Insertion Sort – Designed efficient real-time insertion systems for nearly sorted data in SmartLibrary, MovieTime, and TailorShop.  
+● Merge Sort – Built scalable and stable sorting solutions for large, distributed datasets in EduResults, FoodFest, and MedWarehouse.  
+● Quick Sort – Optimized performance-heavy ranking systems for large, dynamic datasets in FlashDealz and GamerZone.  
+● Scenario-Based Design – Improved practical DSA application, system design understanding, and interview readiness through real-world simulations.
+
+🔗 **Submission:**  
+👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
+---
 ✨ More updates coming as I continue my Java journey...
