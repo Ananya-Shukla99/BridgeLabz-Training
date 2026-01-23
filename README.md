@@ -670,4 +670,34 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 
 ---
+## 📅 Week 4 – Day 3 – Java I/O Streams
+
+### 📝 Topics Covered
+
+- Learned the fundamentals of **Java I/O Streams** for input and output operations.
+- Understood the difference between **byte streams** and **character streams**.
+- Explored how Java handles data through streams for file and object operations.
+
+### 🔹 Types of Streams
+
+1. **File Streams**  
+   Used for reading and writing data to files.
+
+2. **Object Streams**  
+   Used for serialization and deserialization of objects.
+
+3. **ByteArray Streams**  
+   Used for handling data directly from memory.
+
+4. **Buffered Streams**  
+   Improve performance by minimizing direct I/O operations.
+
+5. **Reader and Writer Streams**  
+   Used for character-based input and output.
+
+🔗 **Code:**  
+👉 [Day 3 - Java I/O Streams]
+
+---
+
 ✨ More updates coming as I continue my Java journey...
