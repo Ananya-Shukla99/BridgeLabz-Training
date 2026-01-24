@@ -27,8 +27,8 @@ public class RotateElement {
 
 		int x = sc.nextInt();
 
-		x=x%n;
-		
+		x = x % n;
+
 		List<Integer> result = new ArrayList<>();
 
 		result.addAll(list.subList(x, n));
