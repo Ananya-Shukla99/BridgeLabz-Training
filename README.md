@@ -670,11 +670,11 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉 [Scenario Based Question Implementation](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 
 ---
-## 📅 Week 4 – Day 3 – Java I/O Streams
+## 📅 Week 4 – Day 3 – Java  Streams
 
 ### 📝 Topics Covered
 
-- Learned the fundamentals of **Java I/O Streams** for input and output operations.
+- Learned the fundamentals of **Java Streams** for input and output operations.
 - Understood the difference between **byte streams** and **character streams**.
 - Explored how Java handles data through streams for file and object operations.
 
@@ -696,8 +696,60 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
    Used for character-based input and output.
 
 🔗 **Code:**  
-👉 [Day 3 - Java I/O Streams]
+👉 [Day 3 - Java Streams]
 
 ---
+
+## 📅 Week 4 – Day 4 – Java Exception Handling
+
+### 📝 Topics Covered
+
+- Practiced handling **checked and unchecked exceptions** in Java.
+- Learned how to create and use **custom (user-defined) exceptions**.
+- Understood **exception propagation**, **multiple catch blocks**, and **nested try-catch**.
+- Explored **try-with-resources**, **throw vs throws**, and the **finally block**.
+
+### 🔹 Practice Problems Covered
+
+1. **Checked Exception (Compile-time Exception)**  
+   - Handled `IOException` while reading a file.
+   - Displayed user-friendly messages when the file is missing.
+
+2. **Unchecked Exception (Runtime Exception)**  
+   - Managed `ArithmeticException` and `InputMismatchException` during division operations.
+
+3. **Custom Exception (User-defined Exception)**  
+   - Created `InvalidAgeException` to validate user age.
+   - Implemented custom error handling for business logic.
+
+4. **Multiple Catch Blocks**  
+   - Handled `ArrayIndexOutOfBoundsException` and `NullPointerException` in array operations.
+
+5. **try-with-resources (Auto-closing Resources)**  
+   - Read data from a file using `BufferedReader`.
+   - Ensured automatic resource management.
+
+6. **throw vs throws (Exception Propagation)**  
+   - Used `throws` to propagate exceptions.
+   - Threw `IllegalArgumentException` for invalid inputs.
+
+7. **finally Block Execution**  
+   - Demonstrated guaranteed execution of the `finally` block.
+
+8. **Exception Propagation in Methods**  
+   - Tracked exception flow across multiple method calls.
+
+9. **Nested try-catch Block**  
+   - Handled array access and division errors using nested exception handling.
+
+10. **Bank Transaction System (Checked + Custom Exception)**  
+    - Implemented withdrawal logic with `InsufficientBalanceException`.
+    - Validated transaction inputs and handled errors gracefully.
+
+🔗 **Code:**  
+👉 [Day 4 - Java Exception Handling]
+
+---
+
 
 ✨ More updates coming as I continue my Java journey...
