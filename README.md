@@ -26,21 +26,55 @@ BridgeLabz-Training/
 │   │   ├── 📁 strings/                # String manipulation 
 │   │   └── 📁 Extras/                 # Built-in methods
 │   ├── 📁 leet-code-codebase/         # LeetCode solutions
-│   ├── 📁 scenario-based-codebase/    # Real-world problems
-│   └── 📄 README.md    # Readme file for week 1
+│   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 └── 📁 java-oops-practice/
-    └── 📁 gcr-codebase/
-        └── 📁 JavaOopsConcepts/
-        │    └── 📁 src/
-        │        └── 📁 com/
-        │            ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-        │            └── 📁 constructor/       # Constructor, access modifiers
-        │            └── 📁 encapsulationandpolymorphism/    # Encapsulation Access Modifier & Polymorphism
-        │            └── 📁 objectmodeling/    # Diagrams, relationships, communication
-        │            └── 📁 inheritance/       # Types, method overriding, & access modifiers
-        ├── 📁 scenario-based-codebase/    # Real-world problems
-        └── 📄 README.md    # Readme file for week 2
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               └── 📁 constructor/       # Constructor, access modifiers
+│   │               └── 📁 finalandstatic/    # Keywords, instance vs class members
+│   │               └── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+└── 📁 java-dsa-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlists/       # singly, doubly & circular
+│   │               └── 📁 stacks/            # Last-In-First-Out (LIFO)
+│   │               └── 📁 queues/            # First-In-First-Out (FIFO)
+│   │               └── 📁 hashmaps/          # Key-Value pairs
+│   │               └── 📁 sorting/           # Sorting algorithms
+│   │               └── 📁 searching/         # Searching algorithms
+│   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+└── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 JavaCollectionsProblem/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               └── 📁 generics/          # Generic classes, methods, wildcards
+│   │               └── 📁 list/              # List interface and implementations
+│   │               └── 📁 set/               # Set interface and implementations
+│   │               └── 📁 queue/             # Queue & Deque interface examples
+│   │               └── 📁 map/               # Map interface and implementations
+│   │               └── 📁 examples/          # Hands-on example programs
+│   │               └── 📁 streams/           # I/O streams, buffering, and serialization
+│   │               └── 📁 exceptionhandling/ # Checked, unchecked, custom exceptions, try-with-resources
+|   |
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+|
+└── README.md
 
 ```
 - Learned basic Git commands:
