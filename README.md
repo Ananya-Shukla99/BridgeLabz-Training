@@ -751,5 +751,44 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 
 ---
 
+📅 Week 4 – Day 5 – Java Regular Expressions 
+
+📝 Topics Covered
+Learned the basics of Java Regular Expressions and pattern matching.
+Understood regex syntax including character classes, quantifiers, and anchors.
+Practiced validating user inputs using regex.
+Explored extracting meaningful data from text using regex patterns.
+Implemented string replacement and text manipulation using regex.
+
+🔹 Practice Problems Covered
+
+Regex Validation
+
+Validated usernames based on allowed characters, length, and starting rules.
+Validated license plate numbers using specific format rules.
+Validated hex color codes using hexadecimal characters.
+Validated IPv4 addresses using numeric range patterns.
+Validated credit card numbers (Visa and MasterCard).
+Validated Social Security Numbers (SSN).
+Validated password strength based on defined constraints.
+
+Regex Extraction
+
+Extracted email addresses from text.
+Extracted capitalized words from sentences.
+Extracted dates in dd/mm/yyyy format.
+Extracted URLs from web page content.
+Extracted programming language names from sentences.
+Extracted currency values from text.
+Identified repeating words in a sentence.
+
+Regex String Manipulation
+
+Replaced multiple spaces with a single space.
+Censored inappropriate or bad words from sentences.
+Cleaned and formatted text using regex replace operations.
+
+🔗 Code:
+👉 [Day 1 – Java Regex Practice]
 
 ✨ More updates coming as I continue my Java journey...
