@@ -789,6 +789,48 @@ Censored inappropriate or bad words from sentences.
 Cleaned and formatted text using regex replace operations.
 
 🔗 Code:
-👉 [Day 1 – Java Regex Practice]
+👉 [Day 5 – Java Regex Practice]
+
+---
+📅 Week 4 – Day 5 – JUnit Testing
+
+📝 Topics Covered
+Learned the fundamentals of unit testing using JUnit.
+Understood how to write and execute test cases for Java applications.
+Practiced testing methods with valid, invalid, and edge-case inputs.
+Explored JUnit annotations and lifecycle methods.
+Implemented parameterized tests and performance testing.
+Tested exception handling and file operations.
+
+🔹 Practice Problems Covered
+
+JUnit Basics
+
+Tested arithmetic operations using a Calculator class.
+Verified string utility methods such as reverse, palindrome check, and uppercase conversion.
+Tested list operations including add, remove, and size validation.
+Tested exception handling for division by zero.
+
+JUnit Annotations & Features
+
+Used @Test to define test cases.
+Used @BeforeEach and @AfterEach for setup and cleanup.
+Implemented parameterized tests using @ParameterizedTest.
+Performed performance testing using @Timeout.
+
+JUnit Advanced Testing
+
+Tested banking transactions including deposit and withdrawal logic.
+Validated insufficient balance scenarios using custom exceptions.
+Tested password strength validation logic.
+Tested temperature conversion between Celsius and Fahrenheit.
+Tested date formatting and invalid date handling.
+Tested user registration functionality with input validation.
+Tested file handling operations including read, write, and exception handling.
+
+🔗 Code:
+👉 [Day 5 – JUnit Testing Practice]
+
+---
 
 ✨ More updates coming as I continue my Java journey...
