@@ -784,86 +784,95 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉 [Day 4 - Java Exception Handling](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/exceptions)
 
 ---
+## 📅 Week 4 – Day 5 – Java Regex & JUnit Introduction
 
-📅 Week 4 – Day 5 – Java Regular Expressions 
+### 📝 Topics Covered
 
-📝 Topics Covered
-Learned the basics of Java Regular Expressions and pattern matching.
-Understood regex syntax including character classes, quantifiers, and anchors.
-Practiced validating user inputs using regex.
-Explored extracting meaningful data from text using regex patterns.
-Implemented string replacement and text manipulation using regex.
+- Learned the fundamentals of **Regular Expressions (Regex)** in Java.
+- Understood how Regex helps in **pattern matching and validation**.
+- Explored commonly used **Regex patterns** for real-world applications.
+- Introduced to the **JUnit Framework** for unit testing in Java.
+- Learned how to write and structure **test cases** using JUnit.
 
-🔹 Practice Problems Covered
+### 🔹 Java Regex Concepts
 
-Regex Validation
+1. **MetaCharacters**  
+   Special characters used to define patterns (e.g., `.`, `\d`, `\w`, `^`, `$`).
 
-Validated usernames based on allowed characters, length, and starting rules.
-Validated license plate numbers using specific format rules.
-Validated hex color codes using hexadecimal characters.
-Validated IPv4 addresses using numeric range patterns.
-Validated credit card numbers (Visa and MasterCard).
-Validated Social Security Numbers (SSN).
-Validated password strength based on defined constraints.
+2. **Quantifiers**  
+   Used to specify the number of occurrences (e.g., `*`, `+`, `?`, `{n}`, `{n,m}`).
 
-Regex Extraction
+### 🔹 Common Regex Patterns
 
-Extracted email addresses from text.
-Extracted capitalized words from sentences.
-Extracted dates in dd/mm/yyyy format.
-Extracted URLs from web page content.
-Extracted programming language names from sentences.
-Extracted currency values from text.
-Identified repeating words in a sentence.
+- **Email Validation**  
+- **Password Strength Validation**  
+- **Phone Number Format Validation**
 
-Regex String Manipulation
+### 🔹 Java Regex API
 
-Replaced multiple spaces with a single space.
-Censored inappropriate or bad words from sentences.
-Cleaned and formatted text using regex replace operations.
+1. **Pattern**  
+   Used to define a compiled representation of a regular expression.
 
-🔗 Code:
-👉 [Day 5 – Java Regex Practice]
+2. **Matcher**  
+   Used to match the given pattern against input text.
+
+### 🔹 Regex Methods
+
+- `find()` – Searches for occurrences of the pattern.
+- `matches()` – Checks if the entire input matches the pattern.
+- `replaceAll()` – Replaces all matched patterns with a given string.
+
+### 🔹 Introduction to JUnit Framework
+
+- Overview of **JUnit** for automated unit testing.
+- Importance of testing individual components of an application.
+
+### 🔹 JUnit Annotations
+
+- `@Test`
+- `@BeforeEach`
+- `@AfterEach`
+- `@BeforeAll`
+- `@AfterAll`
+
+### 🔹 Writing Test Cases
+
+- Understanding the **structure of a test class**.
+- Writing test methods for validating application logic.
+
+### 🔹 Assertions
+
+- `assertEquals()`
+- `assertTrue()`
+- `assertFalse()`
+- `assertNotNull()`
+- `assertThrows()`
+
+🔗 **Code:**  
+👉 [Day 5 - Java Regex & JUnit]
 
 ---
-📅 Week 4 – Day 5 – JUnit Testing
+---
+## 📅 Week 4 – Day 6 – Annotations & Reflection
 
-📝 Topics Covered
-Learned the fundamentals of unit testing using JUnit.
-Understood how to write and execute test cases for Java applications.
-Practiced testing methods with valid, invalid, and edge-case inputs.
-Explored JUnit annotations and lifecycle methods.
-Implemented parameterized tests and performance testing.
-Tested exception handling and file operations.
+### 📝 Topics Covered
 
-🔹 Practice Problems Covered
+- Learned the basics of **Annotations** and their importance in Java applications.
+- Explored **common built-in annotations** and how to create **custom annotations**.
+- Understood **advanced custom annotations** and their real-world use cases.
+- Gained an overview of **annotation processing tools**.
+- Introduced to **Reflection API** for runtime inspection of classes and methods.
+- Learned how **annotations and reflection** work together in Java.
 
-JUnit Basics
+### 🔹 Key Concepts
 
-Tested arithmetic operations using a Calculator class.
-Verified string utility methods such as reverse, palindrome check, and uppercase conversion.
-Tested list operations including add, remove, and size validation.
-Tested exception handling for division by zero.
+- Built-in Annotations: `@Override`, `@Deprecated`, `@SuppressWarnings`
+- Custom & Advanced Annotations using meta-annotations
+- Reflection for accessing classes, methods, and fields at runtime
+- Using Reflection to read annotation metadata
 
-JUnit Annotations & Features
-
-Used @Test to define test cases.
-Used @BeforeEach and @AfterEach for setup and cleanup.
-Implemented parameterized tests using @ParameterizedTest.
-Performed performance testing using @Timeout.
-
-JUnit Advanced Testing
-
-Tested banking transactions including deposit and withdrawal logic.
-Validated insufficient balance scenarios using custom exceptions.
-Tested password strength validation logic.
-Tested temperature conversion between Celsius and Fahrenheit.
-Tested date formatting and invalid date handling.
-Tested user registration functionality with input validation.
-Tested file handling operations including read, write, and exception handling.
-
-🔗 Code:
-👉 [Day 5 – JUnit Testing Practice]
+🔗 **Code:**  
+👉 [Day 6 - Annotations & Reflection]
 
 ---
 
