@@ -696,7 +696,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
    Used for character-based input and output.
 
 🔗 **Code:**  
-👉 [Day 3 - Java Streams]
+👉 [Day 3 - Java Streams](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/javastreams)
 
 ---
 
