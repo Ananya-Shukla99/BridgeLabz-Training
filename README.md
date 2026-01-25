@@ -747,7 +747,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
     - Validated transaction inputs and handled errors gracefully.
 
 🔗 **Code:**  
-👉 [Day 4 - Java Exception Handling]
+👉 [Day 4 - Java Exception Handling](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/exceptions)
 
 ---
 
