@@ -849,9 +849,9 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 - `assertThrows()`
 
 🔗 **Code:**  
-👉 [Day 5 - Java Regex & JUnit]
+👉 [Day 5 - Java Regex ](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/regex)
+👉 [Day 5 - JUnit](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/testing)
 
----
 ---
 ## 📅 Week 4 – Day 6 – Annotations & Reflection
 
