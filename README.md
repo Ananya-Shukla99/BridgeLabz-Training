@@ -872,7 +872,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 - Using Reflection to read annotation metadata
 
 🔗 **Code:**  
-👉 [Day 6 - Annotations & Reflection]
+👉 [Day 6 - Annotations & Reflection](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/annotation)
 
 ---
 
