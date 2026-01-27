@@ -918,6 +918,6 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 
 ---
 🔗 **Code:**  
-👉 [ Tree Data Structures]
+👉 [ Tree Data Structures](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/avltree)
 
 ✨ More updates coming as I continue my Java journey...
