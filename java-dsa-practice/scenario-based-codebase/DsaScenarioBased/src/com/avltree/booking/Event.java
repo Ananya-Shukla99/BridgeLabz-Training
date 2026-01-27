@@ -63,7 +63,6 @@ public class Event {
 			current = current.left;
 		return current;
 	}
-
 	// Show Events
 	void showEvents(Node root) {
 		if (root == null)
