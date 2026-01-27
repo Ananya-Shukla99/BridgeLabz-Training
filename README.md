@@ -875,5 +875,49 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉 [Day 6 - Annotations & Reflection](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/annotation)
 
 ---
+## 📅 Week 4 – Tree Data Structures : Scenario-Based Implementation
+
+• Implemented real-world applications of tree data structures using practical, story-driven scenarios.
+
+📌 Binary Search Tree (BST)
+
+• University Digital Record System  
+  – Insertion → Add student roll numbers during enrollment  
+  – Deletion → Remove records when a student leaves  
+  – Search & Display → Sorted roll numbers for attendance management  
+
+• E-Commerce Product Inventory  
+  – Lookup → Search products using SKU number  
+  – Update → Modify product details via SKU  
+  – Sorted Display → Show products in ascending SKU order  
+
+• Music Streaming App – Track Management  
+  – Search Track → Find songs using Track ID  
+  – Insert Track → Add newly released songs  
+  – In-order Traversal → Display playlist alphabetically  
+
+📌 AVL Tree (Self-Balancing BST)
+
+• Gaming App – Real-Time Leaderboard  
+  – Insert/Update Player → Handle score changes dynamically  
+  – Display Top Players → Fetch top-ranked gamers efficiently  
+  – Remove Player → Delete banned or inactive users  
+
+• Online Ticket Booking System  
+  – Insert Event → Add events sorted by start time  
+  – Cancel Event → Remove cancelled events  
+  – Ordered Display → Show upcoming events chronologically  
+
+• Hospital Queue Management System  
+  – Patient Registration → Insert patient by check-in time  
+  – Discharge → Delete patient records  
+  – Display Queue → View patients by arrival order  
+
+• Scenario-Based Design → Improved understanding of balanced vs unbalanced trees  
+• Focus Areas → Search optimization, traversal techniques, and performance efficiency
+
+---
+🔗 **Code:**  
+👉 [ Tree Data Structures]
 
 ✨ More updates coming as I continue my Java journey...
