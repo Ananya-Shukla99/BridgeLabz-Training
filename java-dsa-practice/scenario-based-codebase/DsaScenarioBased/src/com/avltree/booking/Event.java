@@ -73,5 +73,4 @@ public class Event {
 		System.out.println("Event: " + root.eventName + " | Time: " + root.eventTime);
 		showEvents(root.right);
 	}
-
 }
