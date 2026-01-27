@@ -916,8 +916,24 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 • Scenario-Based Design → Improved understanding of balanced vs unbalanced trees  
 • Focus Areas → Search optimization, traversal techniques, and performance efficiency
 
----
 🔗 **Code:**  
 👉 [ Tree Data Structures](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/avltree)
 
+---
+## 📅 Week 5 – CSV Data Handling in Java
+
+### 📝 Topics Covered
+
+- Learned **CSV fundamentals** and its role in storing tabular data for real-world systems like HR, finance, and analytics.
+- Implemented **CSV reading using Core Java** (`BufferedReader`) with manual parsing and understood its limitations.
+- Explored **OpenCSV library** for robust CSV handling, including support for quoted values, custom delimiters, and cleaner APIs.
+- Practiced **writing CSV files** using both Core Java (`BufferedWriter`) and OpenCSV (`CSVWriter`) with proper formatting.
+- Converted CSV data into **Java objects (POJOs)** using `CsvToBean` for structured data processing.
+- Implemented **CSV data validation** using regex and conditional checks for numeric fields and missing values.
+- Understood **real-world use cases** such as employee record processing, bulk data import/export, and pre-database validation.
+
+🔗 **Code:**  
+👉 [CSV Data Handling](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreams/src/com/csvdata)
+
+---
 ✨ More updates coming as I continue my Java journey...
