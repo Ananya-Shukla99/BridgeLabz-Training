@@ -952,4 +952,24 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉[JSON Data Handling](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreams)
 
 ---
+
+## 📅 Week 6 – Day 1- Java 8 Features & Lambda Expressions  
+
+
+### 📝 Topics Covered
+
+- Introduced **Java 8 features** and how they simplify code while improving readability and performance.
+- Learned **Lambda Expressions** to write concise implementations of functional interfaces.
+- Explored **Functional Interfaces** such as `Predicate`, `Function`, `Consumer`, and `Supplier`.
+- Used **Java Streams API** for declarative data processing: filtering, mapping, sorting, and aggregation.
+- Applied **method references** (`Class::method`) as a cleaner alternative to lambdas where applicable.
+- Understood **default and static methods in interfaces** and their role in backward compatibility.
+- Practiced **Optional** to avoid `NullPointerException` and write safer null-handling logic.
+- Explored **forEach, map, filter, reduce, collect** operations on collections.
+- Compared **imperative vs functional programming** styles using real examples.
+
+🔗 **Code:**  
+👉 [Day 1- Java 8 Features & Lambda Expressions]
+
+---
 ✨ More updates coming as I continue my Java journey...
