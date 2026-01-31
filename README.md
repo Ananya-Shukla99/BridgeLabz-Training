@@ -1926,7 +1926,6 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉[JSON Data Handling](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreams)
 
 ---
-
 ## 📅 Week 6 – Day 1- Java 8 Features & Lambda Expressions  
 
 ### 📝 Topics Covered
@@ -1945,7 +1944,6 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉 [Day 1- Java 8 Features & Lambda Expressions]
 
 ---
-
 ## 📅 Week 6 - Day 2 – Functional Interfaces in Java  
 
 ### 📝 Topics Covered
@@ -1984,8 +1982,6 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
 👉 [Day 3- Streams API in Java]
 
 ---
----
-
 ## 📅 Week 6 - Day 4  – Collectors in Java 8
 **(Date: 29-Jan-2026)**
 
@@ -2010,5 +2006,4 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
 👉 [Day 4 - Collectors in Java 8]
 
 ---
-
 ✨ More updates coming as I continue my Java journey...
