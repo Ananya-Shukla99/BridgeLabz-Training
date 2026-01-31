@@ -1929,7 +1929,6 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 
 ## 📅 Week 6 – Day 1- Java 8 Features & Lambda Expressions  
 
-
 ### 📝 Topics Covered
 
 - Introduced **Java 8 features** and how they simplify code while improving readability and performance.
@@ -1983,6 +1982,32 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
 
 🔗 **Code:**  
 👉 [Day 3- Streams API in Java]
+
+---
+---
+
+## 📅 Week 6 - Day 4  – Collectors in Java 8
+**(Date: 29-Jan-2026)**
+
+### 📝 Topics Covered
+
+- **Purpose of Collectors**  
+  Collectors in Java 8 are utility methods used with `Stream.collect()` to transform, aggregate, and summarize data efficiently.
+
+- **Data Transformation & Aggregation**  
+  They convert streams into collections or values using methods like `toList()`, `toSet()`, `toMap()`, and `joining()`.
+
+- **Grouping & Partitioning Data**  
+  `groupingBy()` classifies elements into groups, while `partitioningBy()` splits data into two categories based on a predicate.
+
+- **Statistical Operations**  
+  Collectors such as `summarizingInt()` provide statistics like count, sum, min, max, and average in a single operation.
+
+- **Clean & Readable Stream Pipelines**  
+  Collectors offer ready-made reductions that make stream-based code concise, readable, and maintainable.
+
+🔗 **Code:**  
+👉 [Day 4 - Collectors in Java 8]
 
 ---
 
