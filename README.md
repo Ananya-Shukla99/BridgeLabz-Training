@@ -1947,7 +1947,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 
 ---
 
-## 📅 Week 6- Day 2 – Functional Interfaces in Java  
+## 📅 Week 6 - Day 2 – Functional Interfaces in Java  
 
 ### 📝 Topics Covered
 
@@ -1968,4 +1968,22 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉 [Day 2 - Functional Interfaces]
 
 ---
+## 📅  Week 6 - Day 3 – Streams API in Java 
+
+### 📝 Topics Covered
+
+Learned the fundamentals of the **Java Streams API** and how it enables functional-style data processing.
+- Understood the difference between **Streams vs Collections** and when to use each.
+- Explored **stream creation techniques** from collections, arrays, files, and generators.
+- Practiced **intermediate operations** such as `filter()`, `map()`, `flatMap()`, `distinct()`, `sorted()`, and `limit()`.
+- Implemented **terminal operations** like `forEach()`, `collect()`, `reduce()`, `count()`, `min()`, and `max()`.
+- Used **Collectors** (`toList()`, `toSet()`, `toMap()`, `groupingBy()`, `partitioningBy()`, `joining()`).
+- Learned **lazy evaluation** and how streams process data only when a terminal operation is invoked.
+- Explored **parallel streams**, their performance benefits, and when to avoid them
+
+🔗 **Code:**  
+👉 [Day 3- Streams API in Java]
+
+---
+
 ✨ More updates coming as I continue my Java journey...
