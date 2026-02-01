@@ -2003,7 +2003,7 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
   Collectors offer ready-made reductions that make stream-based code concise, readable, and maintainable.
 
 🔗 **Code:**  
-👉 [Day 4 - Collectors in Java 8]
+👉 [Day 4 - Collectors in Java 8](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/collectors)
 
 ---
 ✨ More updates coming as I continue my Java journey...
