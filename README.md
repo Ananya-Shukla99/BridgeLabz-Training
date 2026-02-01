@@ -1979,7 +1979,7 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
 - Explored **parallel streams**, their performance benefits, and when to avoid them
 
 🔗 **Code:**  
-👉 [Day 3- Streams API in Java]
+👉 [Day 3- Streams API in Java](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/stream)
 
 ---
 ## 📅 Week 6 - Day 4  – Collectors in Java 8
