@@ -2006,4 +2006,29 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
 👉 [Day 4 - Collectors in Java 8](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/collectors)
 
 ---
+
+## 📅 Week 6 - Day 5 – Smart City Transport & Service Management System
+
+### 📝 Topics Covered
+
+Designed and implemented a **Smart City Transport & Service Management System** using modern **Java 8 features** to handle real-time transport data, scheduling, and analytics.
+
+- Applied **Lambda Expressions** to filter and sort transport services based on user preferences such as lowest fare and earliest departure time.
+- Used **Method References** for clean printing of service details, logging, and invoking utility methods.
+- Implemented **Default Methods in Interfaces** to provide common behavior (`printServiceDetails()`) across all transport services.
+- Utilized **Static Methods in Interfaces** (`calculateDistance()`) for computing distances between locations.
+- Leveraged the **Streams API** to process transport and passenger data efficiently.
+- Used `forEach()` to dynamically display live transport schedules on the dashboard.
+- Applied **Collectors**:
+  - `groupingBy()` to group passengers by route.
+  - `partitioningBy()` to classify peak vs non-peak trips.
+  - `summarizingDouble()` to calculate total, average, and maximum fare collection.
+- Defined and implemented **Interfaces** (`TransportService`) for extensible transport types.
+- Implemented **Functional Interfaces** (`FareCalculator`) using lambda expressions.
+- Used **Marker Interfaces** (`EmergencyService`) to detect and prioritize emergency transport services.
+- Designed the system to be **easily extensible**, allowing new services like Ferry or Bike Rentals to be added with minimal changes.
+
+🔗 **Code:**  
+👉 [Smart City Transport & Service Management System]
+
 ✨ More updates coming as I continue my Java journey...
