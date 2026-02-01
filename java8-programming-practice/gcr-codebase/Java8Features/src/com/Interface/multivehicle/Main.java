@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String []args) {
 		
-		//Vehicle objects
+		//Vehicle object
 		Vehicle v = new Bus();
 		Vehicle v2= new Bike();
 		Vehicle v3= new Car();
