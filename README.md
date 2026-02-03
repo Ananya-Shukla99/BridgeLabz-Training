@@ -2030,4 +2030,23 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 🔗 **Code:**  
 👉 [Smart City Transport & Service Management System]
 
+### 📅 Java Stream API – Real-Time Scenario Based Questions  
+
+● Practiced real-world data processing using **Java 8 Stream API**.  
+● Applied functional programming concepts like filtering, mapping, sorting, grouping, and aggregation.
+
+● Basic Filtering & Mapping – Filtered students by rank, age, city, department and extracted names.  
+● Sorting & Limiting – Sorted students by rank, age, and name with top/bottom results.  
+● Grouping & Aggregation – Grouped students by department, city, gender and calculated counts & averages.  
+● Min / Max Operations – Found best/worst ranks, youngest/oldest students.  
+● FlatMap Operations – Processed multiple contact numbers and extracted unique values.  
+● Conditional Matching – Used anyMatch, allMatch, noneMatch for validation scenarios.  
+● Gender-Based Analysis – Analyzed age, count, and ranking based on gender.  
+● Department-Specific Queries – Filtered and ranked students within departments.  
+● Advanced Stream Operations – Converted collections to Maps and applied custom filters.  
+● Bonus Challenges – Partitioning, top-N results, and maximum/minimum grouping logic.
+
+🔗 Submission:  
+👉 [Java Stream API Real-Time Problems]
+
 ✨ More updates coming as I continue my Java journey...
