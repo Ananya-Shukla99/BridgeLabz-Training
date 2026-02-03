@@ -1753,7 +1753,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
     - Implemented withdrawal logic with `InsufficientBalanceException`.
     - Validated transaction inputs and handled errors gracefully.
 
-🔗 **Code:**  
+🔗 **Submission: **  
 👉 [Day 4 - Java Exception Handling](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/exceptions)
 
 ---
@@ -1821,7 +1821,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 - `assertNotNull()`
 - `assertThrows()`
 
-🔗 **Code:**  
+🔗 **Submission:  **  
 👉 [Day 5 - Java Regex ](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/regex)
 👉 [Day 5 - JUnit](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/testing)
 
@@ -1844,7 +1844,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 - Reflection for accessing classes, methods, and fields at runtime
 - Using Reflection to read annotation metadata
 
-🔗 **Code:**  
+🔗 **Submission:  **  
 👉 [Day 6 - Annotations & Reflection](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/annotation)
 
 ---
@@ -1889,7 +1889,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 • Scenario-Based Design → Improved understanding of balanced vs unbalanced trees  
 • Focus Areas → Search optimization, traversal techniques, and performance efficiency
 
-🔗 **Code:**  
+🔗 **Submission:  **  
 👉 [ Tree Data Structures](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com/avltree)
 
 ---
@@ -1905,7 +1905,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 - Implemented **CSV data validation** using regex and conditional checks for numeric fields and missing values.
 - Understood **real-world use cases** such as employee record processing, bulk data import/export, and pre-database validation.
 
-🔗 **Code:**  
+🔗 **Submission:  **  
 👉 [CSV Data Handling](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreams/src/com/csvdata)
 
 ---
@@ -1939,8 +1939,8 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 - Explored **forEach, map, filter, reduce, collect** operations on collections.
 - Compared **imperative vs functional programming** styles using real examples.
 
-🔗 **Code:**  
-👉 [Day 1- Java 8 Features & Lambda Expressions]
+🔗 **Submission:  **  
+👉 [Day 1- Java 8 Features & Lambda Expressions](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com)
 
 ---
 ## 📅 Week 6 - Day 2 – Functional Interfaces in Java  
@@ -1960,7 +1960,7 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 - Used **method references** as a clean alternative to lambda expressions.
 - Combined functional interfaces with **Streams API** for real-world data processing.
 
-🔗 **Code:**  
+🔗 **Submission:  **  
 👉 [Day 2 - Functional Interfaces]
 
 ---
@@ -1977,7 +1977,7 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
 - Learned **lazy evaluation** and how streams process data only when a terminal operation is invoked.
 - Explored **parallel streams**, their performance benefits, and when to avoid them
 
-🔗 **Code:**  
+🔗 **Submission: **  
 👉 [Day 3- Streams API in Java](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/stream)
 
 ---
@@ -2001,7 +2001,7 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
 - **Clean & Readable Stream Pipelines**  
   Collectors offer ready-made reductions that make stream-based code concise, readable, and maintainable.
 
-🔗 **Code:**  
+🔗 **Submission: **  
 👉 [Day 4 - Collectors in Java 8](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/collectors)
 
 ---
@@ -2027,7 +2027,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Used **Marker Interfaces** (`EmergencyService`) to detect and prioritize emergency transport services.
 - Designed the system to be **easily extensible**, allowing new services like Ferry or Bike Rentals to be added with minimal changes.
 
-🔗 **Code:**  
+🔗 **Submission: **  
 👉 [Smart City Transport & Service Management System]
 
 ### 📅 Java Stream API – Real-Time Scenario Based Questions  
@@ -2047,6 +2047,6 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 ● Bonus Challenges – Partitioning, top-N results, and maximum/minimum grouping logic.
 
 🔗 Submission:  
-👉 [Java Stream API Real-Time Problems]
+👉 [Java Stream API Real-Time Problems](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioBased/src/com/employeemanager)
 
 ✨ More updates coming as I continue my Java journey...
