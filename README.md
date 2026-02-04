@@ -2048,6 +2048,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 
 🔗 Submission:  
 👉 [Java Stream API Real-Time Problems](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioBased/src/com/employeemanager)
+
 ---
 
 ## 📅 Week 7 - Day 1 – Design Principles & Design Patterns in Java
@@ -2070,11 +2071,11 @@ Designed and implemented a **Smart City Transport & Service Management System** 
   Covered **Strategy**, **Observer**, and **Command** patterns to handle communication, algorithms, and event-driven behavior efficiently.
 
 🔗 **Code:**
-👉 [Day 1 – Design Principles & Design Patterns in Java]
+👉 [Day 1 – Design Principles & Design Patterns in Java]()
 
 ---
 
-## 📅 Week 7 - Day 2 – Multithreading & Concurrency in Java  
+## 📅 Week 7 - Day 2 – Multithreading & Concurrency in Java
 
 ### 📝 Topics Covered
 
