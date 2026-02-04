@@ -238,8 +238,6 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 
 ## 📘 Week 2: Object-Oriented Programming
 
----
-
 ### 📅 Day 1 – Introduction to Object-Oriented Programming  
 (Date: 26-Dec-2025)
 
@@ -265,7 +263,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 ---
 
 ### 📅 Day 2 – Constructors & Class Members  
-(Date: 27-Dec-2025)
+***(Date: 27-Dec-2025)***
 
 ● Studied constructors and object initialization.  
 ● Learned default, parameterized, and copy constructors.  
@@ -288,7 +286,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 ---
 
 ### 📅 Day 3 – Static, Final & Inbuilt Keywords  
-(Date: 28-Dec-2025)
+***(Date: 28-Dec-2025)***
 
 ● Studied the static keyword and its usage in Java.  
 ● Learned about static variables and static methods.  
@@ -309,7 +307,7 @@ Solved scenario-based Core Java problems focusing on real-world logic and proble
 ---
 
 ### 📅 Day 4 – Object-Oriented Design Principles  
-(Date: 29-Dec-2025)
+***(Date: 29-Dec-2025)***
 
 ● Studied Object-Oriented Design (OOD) principles.  
 
