@@ -2030,7 +2030,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 🔗 **Submission: **  
 👉 [Smart City Transport & Service Management System]
 
-### 📅 Java Stream API – Real-Time Scenario Based Questions  
+### 📅 Week 6 - Day6 - Java Stream API – Real-Time Scenario Based Questions  
 
 ● Practiced real-world data processing using **Java 8 Stream API**.  
 ● Applied functional programming concepts like filtering, mapping, sorting, grouping, and aggregation.
@@ -2048,5 +2048,30 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 
 🔗 Submission:  
 👉 [Java Stream API Real-Time Problems](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioBased/src/com/employeemanager)
+---
+
+## 📅 Week 7 - Day 1 – Design Principles & Design Patterns in Java
+
+### 📝 Topics Covered
+
+- **Design Principles (SOLID)**  
+  Studied **Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion** to build maintainable, scalable, and testable applications.
+
+- **Other Core Principles**  
+  Explored **DRY (Don’t Repeat Yourself)**, **KISS (Keep It Simple)**, and **YAGNI (You Aren’t Gonna Need It)** to reduce complexity and avoid over-engineering.
+
+- **Creational Design Patterns**  
+  Learned patterns like **Singleton**, **Factory Method**, and **Builder** for controlled object creation and flexibility in system design.
+
+- **Structural Design Patterns**  
+  Understood **Adapter**, **Decorator**, and **Facade** patterns to simplify interfaces, extend behavior, and integrate incompatible components.
+
+- **Behavioral Design Patterns**  
+  Covered **Strategy**, **Observer**, and **Command** patterns to handle communication, algorithms, and event-driven behavior efficiently.
+
+🔗 **Code:**
+👉 [Day 1 – Design Principles & Design Patterns in Java]
+
+---
 
 ✨ More updates coming as I continue my Java journey...
