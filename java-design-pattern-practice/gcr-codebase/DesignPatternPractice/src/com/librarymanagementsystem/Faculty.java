@@ -1,0 +1,14 @@
+package com.librarymanagementsystem;
+
+class Faculty implements User {
+	private String name;
+
+	public Faculty(String name) {
+		this.name = name;
+	}
+
+	public void showRole() {
+		System.out.println(name + " is a Faculty.");
+	}
+
+}
