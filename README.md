@@ -2069,7 +2069,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
   Covered **Strategy**, **Observer**, and **Command** patterns to handle communication, algorithms, and event-driven behavior efficiently.
 
 🔗 **Code:**
-👉 [Day 1 – Design Principles & Design Patterns in Java]()
+👉 [Day 1 – Design Principles & Design Patterns in Java](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/librarymanagementsystem)
 
 ---
 
@@ -2089,7 +2089,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 
 
 🔗 **Code:**  
-👉 [Day 2 – Multithreading & Concurrency in Java]()
+👉 [Day 2 – Multithreading & Concurrency in Java](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading)
 
 ---
 ## 📅 Week 7 -Day 3 – Scenario-Based Problems on Java Streams  
