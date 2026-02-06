@@ -13,6 +13,7 @@ public class Job implements Runnable {
 		this.name = name;
 		this.pages = pages;
 		this.priority = priority;
+		
 	}
 
 	@Override
@@ -30,7 +31,7 @@ public class Job implements Runnable {
 					e.printStackTrace();
 				}
 
-				System.out.println("[" + level + "] Printing " + name + " - Page " + i + " of " + pages);
+				System.out.println("[" + level + "] Printing " + name + "  Page " + i + " of " + pages);
 			}
 
 			System.out.println(name + " completed.\n");
