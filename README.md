@@ -2111,5 +2111,24 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 👉 [Day 3 – Scenario-Based Streams Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase)
 
 ---
+## 📅 Week 7 - Day 4 – Scenario-Based Problems on Java Streams  
+
+### 📝 Topics Covered
+
+
+- Solved multiple **string and collection problems** using Java 8 Streams  
+- Practiced **character and word frequency counting**  
+- Implemented **filtering, mapping, and collecting operations**  
+- Used **groupingBy() and partitioningBy()** for data classification  
+- Applied **distinct() and sorted()** for removing duplicates and sorting  
+- Performed **aggregation operations** like counting and summing  
+- Focused on writing **clean and declarative code**  
+- Improved understanding of **functional programming concepts**  
+- Strengthened problem-solving and interview preparation skills
+- 
+🔗 **Code:**  
+👉 [Day 4 – Scenario-Based Streams Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase)
+
+---
 
 ✨ More updates coming as I continue my Java journey...
