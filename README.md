@@ -2108,7 +2108,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Enhanced problem-solving skills aligned with **technical interview patterns**.
 
 🔗 **Code:**  
-👉 [Day 44 – Scenario-Based Streams Practice]()
+👉 [Day 3 – Scenario-Based Streams Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase)
 
 ---
 
