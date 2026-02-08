@@ -2066,7 +2066,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Designed the system to be **easily extensible**, allowing new services like Ferry or Bike Rentals to be added with minimal changes.
 
 🔗 **Submission: **  
-👉 [Smart City Transport & Service Management System]
+👉 [Smart City Transport & Service Management System](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/smartcitytransport)
 
 ### 📅 Week 6 - Day6 - Java Stream API – Real-Time Scenario Based Questions  
 
@@ -2183,7 +2183,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Evaluated **trade-offs and best practices** — indexes improve read performance but increase storage and slow write operations, so they must be used strategically.  
 
 🔗 **Code:**  
-👉 [Day 5 – Basic of DBMS]
+👉 [Day 5 – Basic of DBMS]()
 
 ---
 
