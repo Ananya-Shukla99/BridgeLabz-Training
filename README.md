@@ -2131,4 +2131,20 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 
 ---
 
+## 📅 Week 7 - Day 5 – Indexing in MySQL  
+
+### 📝 Topics Covered
+
+- Learned the concept of **indexing** as a data structure that speeds up data retrieval, reduces table scans, and improves filtering, sorting, and JOIN performance.  
+- Explored **types of indexes** including Primary, Unique, Regular, Composite, Full-Text, and Spatial, and understood when each should be used.  
+- Understood how **B-Tree indexes** organize data for **O(log n)** search time, enabling faster queries compared to sequential scans.  
+- Practiced **creating, viewing, and dropping indexes**, and analyzed query performance using **EXPLAIN** to identify optimization opportunities.  
+- Studied **composite indexes and the leftmost prefix rule**, along with covering indexes that eliminate the need to access the main table.  
+- Evaluated **trade-offs and best practices** — indexes improve read performance but increase storage and slow write operations, so they must be used strategically.  
+
+🔗 **Code:**  
+👉 [Day 5 – Basic of DBMS]
+
+---
+
 ✨ More updates coming as I continue my Java journey...
