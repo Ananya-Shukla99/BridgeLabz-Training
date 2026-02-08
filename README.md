@@ -2092,7 +2092,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 👉 [Day 2 – Multithreading & Concurrency in Java](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading)
 
 ---
-## 📅 Week 7 -Day 3 – Scenario-Based Problems on Java Streams  
+## 📅 Week 7 - Day 3 – Scenario-Based Problems on Java Streams  
 
 ### 📝 Topics Covered
 
@@ -2146,5 +2146,22 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 👉 [Day 5 – Basic of DBMS]
 
 ---
+
+## 📅 Week 7 - Day 6 – MySQL Queries & Data Retrieval  
+
+### 📝 Topics Covered
+
+- Practiced writing **core SQL queries** including `SELECT`, `INSERT`, `UPDATE`, and `DELETE` to efficiently manage relational data.  
+- Mastered **filtering techniques** using `WHERE`, `BETWEEN`, `IN`, `LIKE`, and logical operators for precise data retrieval.  
+- Learned **sorting and limiting results** with `ORDER BY`, `LIMIT`, and pagination concepts for scalable applications.  
+- Explored **aggregate functions** such as `COUNT()`, `SUM()`, `AVG()`, `MIN()`, and `MAX()` along with `GROUP BY` and `HAVING` for data analysis.  
+- Implemented **JOIN operations** (INNER, LEFT, RIGHT) to combine data across multiple tables and support real-world relational queries.  
+- Strengthened query performance awareness by writing **optimized, readable SQL** aligned with industry best practices.  
+
+🔗 **Code:**  
+👉 [Day 7 – MySQL Queries & Data Retrieval  ]()
+
+---
+
 
 ✨ More updates coming as I continue my Java journey...
