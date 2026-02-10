@@ -1,0 +1,136 @@
+Exercise 1: Simple CRUD Application
+Employee Management System (MySQL)
+
+--------------------------------------------------
+Database Creation
+--------------------------------------------------
+
+Command:
+CREATE DATABASE employee_db;
+
+Output:
+Query OK, 1 row affected
+
+--------------------------------------------------
+Select Database
+--------------------------------------------------
+
+Command:
+USE employee_db;
+
+Output:
+Database changed
+
+--------------------------------------------------
+Table Creation
+--------------------------------------------------
+
+Command:
+CREATE TABLE employees (
+    emp_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    department VARCHAR(100),
+    salary DECIMAL(10,2) NOT NULL,
+    email VARCHAR(150) UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+Output:
+Query OK, 0 rows affected
+
+--------------------------------------------------
+View Tables
+--------------------------------------------------
+
+Command:
+SHOW TABLES;
+
+Output:
++-----------------------+
+| Tables_in_employee_db |
++-----------------------+
+| employees             |
++-----------------------+
+
+--------------------------------------------------
+Insert Employee Records (Add Employee)
+--------------------------------------------------
+
+Command:
+INSERT INTO employees (name, department, salary, email)
+VALUES
+('Rahul Sharma', 'IT', 48000, 'rahul.sharma@gmail.com'),
+('Priya Verma', 'HR', 42000, 'priya.verma@gmail.com'),
+('Amit Patel', 'Finance', 52000, 'amit.patel@gmail.com'),
+('Neha Singh', 'Marketing', 45000, 'neha.singh@gmail.com'),
+('Rohit Kumar', 'Sales', 40000, 'rohit.kumar@gmail.com'),
+('Anjali Mehta', 'IT', 50000, 'anjali.mehta@gmail.com'),
+('Vikram Rao', 'Operations', 47000, 'vikram.rao@gmail.com'),
+('Sneha Iyer', 'HR', 43000, 'sneha.iyer@gmail.com'),
+('Karan Malhotra', 'Finance', 55000, 'karan.malhotra@gmail.com'),
+('Pooja Nair', 'Customer Support', 39000, 'pooja.nair@gmail.com');
+
+Output:
+Query OK, 10 rows affected
+
+--------------------------------------------------
+View All Employees
+--------------------------------------------------
+
+Command:
+SELECT * FROM employees;
+
+Output:
+10 rows displayed
+
+--------------------------------------------------
+Insert New Employee
+--------------------------------------------------
+
+Command:
+INSERT INTO employees (name, department, salary, email)
+VALUES ('Ananya Shukla', 'IT', 80000.00, 'ananya.shukla@gmail.com');
+
+Output:
+Query OK, 1 row affected
+
+--------------------------------------------------
+Update Employee Salary
+--------------------------------------------------
+
+Command:
+UPDATE employees
+SET salary = 30000
+WHERE emp_id = 2;
+
+Output:
+Query OK, 1 row affected
+
+--------------------------------------------------
+Delete Employee
+--------------------------------------------------
+
+Command:
+DELETE FROM employees
+WHERE emp_id = 10;
+
+Output:
+Query OK, 1 row affected
+
+--------------------------------------------------
+Search Employee by Name
+--------------------------------------------------
+
+Command:
+SELECT * FROM employees
+WHERE name LIKE 'A%';
+
+Output:
++--------+---------------+------------+----------+-------------------------+
+| emp_id | name          | department | salary   | email                   |
++--------+---------------+------------+----------+-------------------------+
+| 3      | Amit Patel    | Finance    | 52000.00 | amit.patel@gmail.com    |
+| 6      | Anjali Mehta  | IT         | 50000.00 | anjali.mehta@gmail.com  |
+| 11     | Ananya Shukla | IT         | 80000.00 | ananya.shukla@gmail.com |
++--------+---------------+------------+----------+-------------------------+
+
