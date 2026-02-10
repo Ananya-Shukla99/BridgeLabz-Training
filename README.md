@@ -1172,7 +1172,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Evaluated **trade-offs and best practices** — indexes improve read performance but increase storage and slow write operations, so they must be used strategically.  
 
 🔗 **Submission:** 
-👉 [Day 5 – Basic of DBMS]()
+👉 [Day 5 – Basic of DBMS](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/MySqlConcepts)
 
 ---
 
@@ -1188,7 +1188,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Strengthened query performance awareness by writing **optimized, readable SQL** aligned with industry best practices.  
 
 🔗 **Submission:**  
-👉 [Day 7 – MySQL Queries & Data Retrieval]()
+👉 [Day 7 – MySQL Queries & Data Retrieval](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/MySqlConcepts)
 
 ---
 
