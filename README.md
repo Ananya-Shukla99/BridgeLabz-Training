@@ -1054,7 +1054,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Used **Marker Interfaces** (`EmergencyService`) to detect and prioritize emergency transport services.
 - Designed the system to be **easily extensible**, allowing new services like Ferry or Bike Rentals to be added with minimal changes.
 
-🔗 **Submission: **  
+🔗 **Submission:**  
 👉 [Smart City Transport & Service Management System](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/smartcitytransport)
 
 ### 📅 Week 6 - Day6 - Java Stream API – Real-Time Scenario Based Questions  
@@ -1073,7 +1073,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 ● Advanced Stream Operations – Converted collections to Maps and applied custom filters.  
 ● Bonus Challenges – Partitioning, top-N results, and maximum/minimum grouping logic.
 
-🔗 Submission:  
+🔗 **Submission:**  
 👉 [Java Stream API Real-Time Problems](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioBased/src/com/employeemanager)
 
 ---
@@ -1097,7 +1097,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - **Behavioral Design Patterns**  
   Covered **Strategy**, **Observer**, and **Command** patterns to handle communication, algorithms, and event-driven behavior efficiently.
 
-🔗 **Code:**
+🔗 **Submission:**
 👉 [Day 1 – Design Principles & Design Patterns in Java](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/librarymanagementsystem)
 
 ---
@@ -1117,7 +1117,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Compared **single-threaded vs multi-threaded** execution with real-world examples (banking, ticket booking, logging systems).
 
 
-🔗 **Code:**  
+🔗 **Submission:** 
 👉 [Day 2 – Multithreading & Concurrency in Java](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading)
 
 ---
@@ -1136,7 +1136,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Focused on writing **declarative code** that replaces complex nested loops.  
 - Enhanced problem-solving skills aligned with **technical interview patterns**.
 
-🔗 **Code:**  
+🔗 **Submission:**
 👉 [Day 3 – Scenario-Based Streams Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase)
 
 ---
@@ -1155,7 +1155,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Improved understanding of **functional programming concepts**  
 - Strengthened problem-solving and interview preparation skills
 - 
-🔗 **Code:**  
+🔗 **Submission:** 
 👉 [Day 4 – Scenario-Based Streams Practice](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase)
 
 ---
@@ -1171,7 +1171,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Studied **composite indexes and the leftmost prefix rule**, along with covering indexes that eliminate the need to access the main table.  
 - Evaluated **trade-offs and best practices** — indexes improve read performance but increase storage and slow write operations, so they must be used strategically.  
 
-🔗 **Code:**  
+🔗 **Submission:** 
 👉 [Day 5 – Basic of DBMS]()
 
 ---
@@ -1187,12 +1187,12 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Implemented **JOIN operations** (INNER, LEFT, RIGHT) to combine data across multiple tables and support real-world relational queries.  
 - Strengthened query performance awareness by writing **optimized, readable SQL** aligned with industry best practices.  
 
-🔗 **Code:**  
+🔗 **Submission:**  
 👉 [Day 7 – MySQL Queries & Data Retrieval]()
 
 ---
 
-## 📅 Week 7 -Day 7 – Basics of JDBC (Java Database Connectivity)
+## 📅 Week 7 - Day 7 – Basics of JDBC (Java Database Connectivity)
 
 ### 📝 Topics Covered
 
@@ -1203,10 +1203,9 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Retrieved and processed data using **ResultSet** while mapping database records to Java objects.  
 - Followed best practices like **try-with-resources** for automatic resource management and improved application stability.  
 
-🔗 **Code:**  
+🔗 **Submission:**
 👉 [Day 7 – Basics of JDBC ]()
 
 ---
-
 
 ✨ More updates coming as I continue my Java journey...
