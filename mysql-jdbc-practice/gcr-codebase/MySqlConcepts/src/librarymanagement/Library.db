@@ -1,0 +1,352 @@
+==================================================
+        LIBRARY MANAGEMENT SYSTEM (SQL)
+==================================================
+
+
+1. SHOW ALL DATABASES
+---------------------
+
+Command:
+SHOW DATABASES;
+
+Output:
++--------------------+
+| Database           |
++--------------------+
+| bankingsystem_db   |
+| employee_db        |
+| library_db         |
+| mysql              |
++--------------------+
+9 rows in set (0.07 sec)
+
+
+==================================================
+
+
+2. CREATE DATABASE
+------------------
+
+Command:
+CREATE DATABASE library_db;
+
+Output:
+Query OK, 1 row affected
+
+
+==================================================
+
+
+3. SELECT DATABASE
+------------------
+
+Command:
+USE library_db;
+
+Output:
+Database changed
+
+
+==================================================
+
+
+4. CREATE TABLE: BOOK
+--------------------
+
+Command:
+CREATE TABLE book (
+    book_id INT PRIMARY KEY,
+    title VARCHAR(100),
+    author VARCHAR(100),
+    category VARCHAR(50),
+    total_copies INT,
+    available_copies INT
+);
+
+Output:
+Query OK, 0 rows affected
+
+
+==================================================
+
+
+5. CREATE TABLE: STUDENTS
+------------------------
+
+Command:
+CREATE TABLE students (
+    student_id INT PRIMARY KEY,
+    name VARCHAR(100),
+    department VARCHAR(50)
+);
+
+Output:
+Query OK, 0 rows affected
+
+
+==================================================
+
+
+6. CREATE TABLE: BORROW_RECORDS
+------------------------------
+
+Command:
+CREATE TABLE borrow_records (
+    record_id INT PRIMARY KEY,
+    student_id INT,
+    book_id INT,
+    issue_date DATE,
+    due_date DATE,
+    return_date DATE,
+
+    FOREIGN KEY (student_id) REFERENCES students(student_id),
+    FOREIGN KEY (book_id) REFERENCES book(book_id)
+);
+
+Output:
+Query OK, 0 rows affected
+
+
+==================================================
+
+
+7. SHOW TABLES
+-------------
+
+Command:
+SHOW TABLES;
+
+Output:
++----------------------+
+| Tables_in_library_db |
++----------------------+
+| book                 |
+| borrow_records       |
+| students             |
++----------------------+
+3 rows in set (0.04 sec)
+
+
+==================================================
+
+
+8. INSERT DATA INTO BOOK TABLE
+------------------------------
+
+Command:
+INSERT INTO book VALUES
+(1, 'Java', 'James Gosling', 'Programming', 5, 3),
+(2, 'Data Structue', 'Mark Allen', 'CS', 4, 2),
+(3, 'DataBase System', 'Ellen', 'DataBase', 4, 3);
+
+Output:
+Query OK, 3 rows affected (0.05 sec)
+
+
+==================================================
+
+
+9. INSERT DATA INTO STUDENTS TABLE
+---------------------------------
+
+Command:
+INSERT INTO students VALUES
+(101, 'Ananya', 'CSE'),
+(102, 'Ashlesha', 'IT'),
+(103, 'Atharv', 'EC');
+
+Output:
+Query OK, 3 rows affected (0.03 sec)
+
+
+==================================================
+
+
+10. INSERT DATA INTO BORROW_RECORDS TABLE
+----------------------------------------
+
+Command:
+INSERT INTO borrow_records VALUES
+(1, 101, 1, '2025-01-01', '2025-01-10', '2025-01-12'),
+(2, 102, 2, '2025-01-05', '2025-01-15', '2025-01-14'),
+(3, 103, 3, '2025-01-08', '2025-01-18', NULL);
+
+Output:
+Query OK, 3 rows affected (0.01 sec)
+
+
+==================================================
+
+
+11. DISPLAY BOOK TABLE
+---------------------
+
+Command:
+SELECT * FROM book;
+
+Output:
++---------+-----------------+---------------+-------------+--------------+------------------+
+| book_id | title           | author        | category    | total_copies | available_copies |
++---------+-----------------+---------------+-------------+--------------+------------------+
+| 1       | Java            | James Gosling | Programming | 5            | 3                |
+| 2       | Data Structue   | Mark Allen    | CS          | 4            | 2                |
+| 3       | DataBase System | Ellen         | DataBase    | 4            | 3                |
++---------+-----------------+---------------+-------------+--------------+------------------+
+
+
+==================================================
+
+
+12. DISPLAY STUDENTS TABLE
+-------------------------
+
+Command:
+SELECT * FROM students;
+
+Output:
++------------+----------+------------+
+| student_id | name     | department |
++------------+----------+------------+
+| 101        | Ananya   | CSE        |
+| 102        | Ashlesha | IT         |
+| 103        | Atharv   | EC         |
++------------+----------+------------+
+
+
+==================================================
+
+
+13. DISPLAY BORROW RECORDS TABLE
+-------------------------------
+
+Command:
+SELECT * FROM borrow_records;
+
+Output:
++-----------+------------+---------+------------+------------+-------------+
+| record_id | student_id | book_id | issue_date | due_date   | return_date |
++-----------+------------+---------+------------+------------+-------------+
+| 1         | 101        | 1       | 2025-01-01 | 2025-01-10 | 2025-01-12  |
+| 2         | 102        | 2       | 2025-01-05 | 2025-01-15 | 2025-01-14  |
+| 3         | 103        | 3       | 2025-01-08 | 2025-01-18 | NULL        |
++-----------+------------+---------+------------+------------+-------------+
+
+
+==================================================
+
+
+14. BORROW REPORT (JOIN QUERY)
+-----------------------------
+
+Command:
+SELECT s.name, b.title, br.issue_date, br.due_date, br.return_date
+FROM students s
+JOIN borrow_records br ON s.student_id = br.student_id
+JOIN book b ON br.book_id = b.book_id;
+
+Output:
++----------+-----------------+------------+------------+-------------+
+| name     | title           | issue_date | due_date   | return_date |
++----------+-----------------+------------+------------+-------------+
+| Ananya   | Java            | 2025-01-01 | 2025-01-10 | 2025-01-12  |
+| Ashlesha | Data Structue   | 2025-01-05 | 2025-01-15 | 2025-01-14  |
+| Atharv   | DataBase System | 2025-01-08 | 2025-01-18 | NULL        |
++----------+-----------------+------------+------------+-------------+
+
+
+==================================================
+
+
+15. FINE CALCULATION
+-------------------
+
+Command:
+SELECT record_id,
+CASE
+    WHEN return_date > due_date
+    THEN DATEDIFF(return_date, due_date) * 5
+    ELSE 0
+END AS fine
+FROM borrow_records;
+
+Output:
++-----------+------+
+| record_id | fine |
++-----------+------+
+| 1         | 10   |
+| 2         | 0    |
+| 3         | 0    |
++-----------+------+
+
+
+==================================================
+
+
+16. SEARCH BY TITLE
+------------------
+
+Command:
+SELECT * FROM book WHERE title LIKE '%Java%';
+
+Output:
++---------+-------+---------------+-------------+--------------+------------------+
+| 1       | Java  | James Gosling | Programming | 5            | 3                |
++---------+-------+---------------+-------------+--------------+------------------+
+
+
+==================================================
+
+
+17. SEARCH BY CATEGORY
+---------------------
+
+Command:
+SELECT * FROM book WHERE category = 'Programming';
+
+Output:
++---------+-------+---------------+-------------+--------------+------------------+
+| 1       | Java  | James Gosling | Programming | 5            | 3                |
++---------+-------+---------------+-------------+--------------+------------------+
+
+
+==================================================
+
+
+18. SEARCH WITH MULTIPLE FILTERS
+-------------------------------
+
+Command:
+SELECT * FROM book
+WHERE author LIKE '%Mark%'
+AND category = 'CS';
+
+Output:
++---------+---------------+------------+----------+--------------+------------------+
+| 2       | Data Structue | Mark Allen | CS       | 4            | 2                |
++---------+---------------+------------+----------+--------------+------------------+
+
+
+==================================================
+
+
+19. NOT RETURNED BOOKS
+---------------------
+
+Command:
+SELECT s.name, b.title, br.issue_date, br.due_date
+FROM borrow_records br
+JOIN students s ON br.student_id = s.student_id
+JOIN book b ON br.book_id = b.book_id
+WHERE br.return_date IS NULL;
+
+Output:
++--------+-----------------+------------+------------+
+| name   | title           | issue_date | due_date   |
++--------+-----------------+------------+------------+
+| Atharv | DataBase System | 2025-01-08 | 2025-01-18 |
++--------+-----------------+------------+------------+
+
+
+==================================================
+                END OF FILE
+==================================================
