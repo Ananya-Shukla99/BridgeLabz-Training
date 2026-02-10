@@ -1188,7 +1188,23 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Strengthened query performance awareness by writing **optimized, readable SQL** aligned with industry best practices.  
 
 🔗 **Code:**  
-👉 [Day 7 – MySQL Queries & Data Retrieval  ]()
+👉 [Day 7 – MySQL Queries & Data Retrieval]()
+
+---
+
+## 📅 Week 7 -Day 7 – Basics of JDBC (Java Database Connectivity)
+
+### 📝 Topics Covered
+
+- Understood **JDBC architecture** and how Java applications interact with databases using drivers and APIs.  
+- Learned the **JDBC workflow**: loading the driver, establishing a connection, creating statements, executing queries, and closing resources.  
+- Practiced connecting Java to **MySQL** using `DriverManager` and managing credentials securely.  
+- Executed SQL operations through **Statement** and **PreparedStatement**, emphasizing protection against SQL injection.  
+- Retrieved and processed data using **ResultSet** while mapping database records to Java objects.  
+- Followed best practices like **try-with-resources** for automatic resource management and improved application stability.  
+
+🔗 **Code:**  
+👉 [Day 7 – Basics of JDBC ]()
 
 ---
 
