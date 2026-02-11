@@ -1207,5 +1207,22 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 👉 [Day 7 – Basics of JDBC ]()
 
 ---
+## 📅 Week 8 - Day 1 – JDBC Practical Implementation
 
+### 📝 Topics Covered
+
+- Developed a **console-based Employee Management System** using JDBC with full섭 CRUD operations:
+  - Add employee  
+  - View all employees  
+  - Update employee salary  
+  - Delete employee  
+  - Search employee by name  
+
+- Implemented **Transaction Management** in a banking system:
+  - Transferred money between accounts using JDBC transactions  
+  - Checked account balance  
+  - Maintained transaction history  
+  - Used commit and rollback for data consistency
+
+  ---
 ✨ More updates coming as I continue my Java journey...
