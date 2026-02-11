@@ -1224,5 +1224,18 @@ Designed and implemented a **Smart City Transport & Service Management System** 
   - Maintained transaction history  
   - Used commit and rollback for data consistency
 
+- Built a **Library Management System** with advanced features:
+  - Managed book inventory  
+  - Maintained student borrowing records  
+  - Implemented fine calculation  
+  - Added search functionality with multiple filters  
+
+- Practiced using **PreparedStatement** for secure database operations.  
+- Applied proper **exception handling** and resource management.  
+- Improved understanding of **real-world database integration** using JDBC.  
+
+🔗 **Submission:**  
+👉 [Day 7 – JDBC Practical Exercises]()
+
   ---
 ✨ More updates coming as I continue my Java journey...
