@@ -1236,6 +1236,5 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 
 🔗 **Submission:**  
 👉 [Day 7 – JDBC Practical Exercises]()
-
-  ---
+---
 ✨ More updates coming as I continue my Java journey...
