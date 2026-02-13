@@ -1192,7 +1192,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 
 ---
 
-## 📅 Week 7 - Day 7 – Basics of JDBC (Java Database Connectivity)
+## 📅 Week 7 - Day 7 – Basics of JDBC - Java Database Connectivity
 
 ### 📝 Topics Covered
 
