@@ -1,4 +1,5 @@
 # BridgeLabz-Training
+
 # Core Java Practice 
 
 ## Week 1: Git, GitHub & Java Programming Fundamentals
@@ -1009,7 +1010,6 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
 
 ---
 ## 📅 Week 6 - Day 4  – Collectors in Java 8
-**(Date: 29-Jan-2026)**
 
 ### 📝 Topics Covered
 
