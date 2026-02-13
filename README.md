@@ -1028,7 +1028,7 @@ Learned the fundamentals of the **Java Streams API** and how it enables function
 - **Clean & Readable Stream Pipelines**  
   Collectors offer ready-made reductions that make stream-based code concise, readable, and maintainable.
 
-🔗 **Submission: **  
+🔗 **Submission:**  
 👉 [Day 4 - Collectors in Java 8](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/collectors)
 
 ---
@@ -1057,7 +1057,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 🔗 **Submission:**  
 👉 [Smart City Transport & Service Management System](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/smartcitytransport)
 
-### 📅 Week 6 - Day6 - Java Stream API – Real-Time Scenario Based Questions  
+### 📅 Week 6 - Day 6 - Java Stream API – Real-Time Scenario Based Questions  
 
 ● Practiced real-world data processing using **Java 8 Stream API**.  
 ● Applied functional programming concepts like filtering, mapping, sorting, grouping, and aggregation.
