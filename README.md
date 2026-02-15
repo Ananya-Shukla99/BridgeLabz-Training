@@ -244,6 +244,29 @@ Focused on understanding **Trees and Graphs** as core non-linear data structures
 👉 [Day 6 - Annotations & Reflection](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/annotation)
 
 ---
+## 📅 Week 4 – Day 6 – Annotations & Reflection
+
+### 📝 Topics Covered
+
+- Learned the basics of **Annotations** and their importance in Java applications.
+- Explored **common built-in annotations** and how to create **custom annotations**.
+- Understood **advanced custom annotations** and their real-world use cases.
+- Gained an overview of **annotation processing tools**.
+- Introduced to **Reflection API** for runtime inspection of classes and methods.
+- Learned how **annotations and reflection** work together in Java.
+
+### 🔹 Key Concepts
+
+- Built-in Annotations: `@Override`, `@Deprecated`, `@SuppressWarnings`
+- Custom & Advanced Annotations using meta-annotations
+- Reflection for accessing classes, methods, and fields at runtime
+- Using Reflection to read annotation metadata
+
+🔗 **Submission:  **  
+👉 [Day 6 - Annotations & Reflection](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollection/src/com/annotation)
+
+---
+---
 ## 📅 Week 4 – Tree Data Structures : Scenario-Based Implementation
 
 • Implemented real-world applications of tree data structures using practical, story-driven scenarios.
