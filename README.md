@@ -1204,7 +1204,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Followed best practices like **try-with-resources** for automatic resource management and improved application stability.  
 
 🔗 **Submission:**
-👉 [Day 7 – Basics of JDBC ]()
+👉 [Day 7 – Basics of JDBC ](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/MySqlConcepts/jdbc-project/src/main/java/com)
 
 ---
 ## 📅 Week 8 - Day 1 – JDBC Practical Implementation
@@ -1235,6 +1235,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Improved understanding of **real-world database integration** using JDBC.  
 
 🔗 **Submission:**  
-👉 [Day 7 – JDBC Practical Exercises]()
+👉 [Day 7 – JDBC Practical Exercises]
+
 ---
 ✨ More updates coming as I continue my Java journey...
