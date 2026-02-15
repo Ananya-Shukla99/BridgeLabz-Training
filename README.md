@@ -1235,7 +1235,7 @@ Designed and implemented a **Smart City Transport & Service Management System** 
 - Improved understanding of **real-world database integration** using JDBC.  
 
 🔗 **Submission:**  
-👉 [Day 7 – JDBC Practical Exercises]
+👉 [Day 7 – JDBC Practical Exercises](https://github.com/Ananya-Shukla99/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/MySqlConcepts/jdbc-project/src/main/java/com)
 
 ---
 ✨ More updates coming as I continue my Java journey...
